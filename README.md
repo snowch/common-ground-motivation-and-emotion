@@ -2,9 +2,8 @@
 
 An original introductory course using fictional repair-café stories and the authorized [Common Ground player](https://github.com/snowch/common-ground-social-psychology).
 
-Course URL after deployment: https://snowch.github.io/common-ground-motivation-and-emotion/
+Live: https://snowch.github.io/common-ground-motivation-and-emotion/
 
-**Production in progress:** the curriculum, diagrams and printable companions are authored. Recorded narration is being rendered and independently screened. The course will be published after media and browser validation. For a text preview, use `python3 build.py --preview`, then the preview server below.
 
 Ten chapters, ninety learner-paced pages, forty original concept figures, twenty decisions, written transfer, retrieval and a final case. Each page, feedback choice and recall answer has its own Kokoro af_heart recording. Paragraph pauses and elapsed/remaining playback time support listening. Browser offline saving includes every chapter and its narration; external research requires a connection.
 

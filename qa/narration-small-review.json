@@ -1,0 +1,423 @@
+{
+  "method": "Additional independent transcription of flagged clips and chapter explanation samples; not listening approval.",
+  "clips": [
+    {
+      "id": "c01s02-feedback-0",
+      "expected": "This generates questions that can distinguish plausible explanations.",
+      "heard": "This generates questions that can distinguish plausible explanations.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 4.203,
+      "wpm": 114.2,
+      "peak": 0.42303466796875,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "d6ca1d7fc330522dd8ebf868daa87664c14881426513c042649140a82f98f4d6"
+    },
+    {
+      "id": "c01s03",
+      "expected": "Goal: an outcome an action is directed toward.\n\nMotivation is not directly visible in one action. Leaving a meeting may reflect competing goals, limited resources or a task already completed.\n\nDescribe the behaviour first. Then ask which motives are plausible and what information would distinguish them. A strong explanation makes predictions rather than attaching a character label.",
+      "heard": "Goal, an outcome, an action is directed toward. Motivation is not directly visible in one action. Leaving a meeting may reflect competing goals, limited resources, or a task already completed. Describe the behavior first. Then ask which motives are plausible and what information would distinguish them. A strong explanation makes predictions rather than attaching a character label.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 25.705,
+      "wpm": 140.1,
+      "peak": 0.590576171875,
+      "flags": [],
+      "raw_sha256": "14ee5c949ab97fc7d5346fc36ab95d3e7b1f235a50576743f73b615fb86d76e5"
+    },
+    {
+      "id": "c01s06-feedback-0",
+      "expected": "The observation concerns one constrained setting.",
+      "heard": "The observation concerns one constrained setting.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 3.859,
+      "wpm": 125.9,
+      "peak": 0.39154052734375,
+      "flags": [],
+      "raw_sha256": "6cb4710d9d192af9cf23a5d087483c556eb7544197edd4baeb3b1bbd298b2afd"
+    },
+    {
+      "id": "c02s02-feedback-0",
+      "expected": "That does not explain every cue-related choice.",
+      "heard": "That does not explain every Q-related choice.",
+      "ratio": 0.875,
+      "model": "small.en",
+      "duration": 2.581,
+      "wpm": 186.0,
+      "peak": 0.35931396484375,
+      "flags": [
+        "words"
+      ],
+      "raw_sha256": "7e146fa9b0c4d3856fdae6dd123c3f8f27f7fd9a25f528605b42e591fe3fc4a9"
+    },
+    {
+      "id": "c02s02-feedback-1",
+      "expected": "Bodily regulation remains relevant.",
+      "heard": "Bodily regulation remains relevant.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 2.453,
+      "wpm": 97.8,
+      "peak": 0.381072998046875,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "78df176a33136bf7ea7a19e7f34f2c897a1d25f1afe4aab6a99f5b06b9bd70b2"
+    },
+    {
+      "id": "c02s03",
+      "expected": "Homeostasis: regulation maintaining conditions within functional ranges. Drive: motivational state associated with a biological need. Feedback: information influencing ongoing regulation.\n\nBodily systems regulate conditions such as energy and fluid balance through interacting signals. A physiological need can influence attention and action.\n\nHuman eating and other behaviours are not simple readings of one internal meter. Learning, availability, culture and health also contribute.",
+      "heard": "Homeostasis, regulation maintaining conditions within functional ranges. Drive, motivational state associated with a biological need. Feedback, information influencing ongoing regulation. Bodily systems regulate conditions such as energy and fluid balance through interacting signals. A physiological need can influence attention and action. Human eating and other behaviors are not simple readings of one internal meter. Learning, availability, culture, and health also contribute.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 34.495,
+      "wpm": 110.3,
+      "peak": 0.465972900390625,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "aa155bde255b1b1138791c7ad625937f17a17d4d4be3bf7868b455a64868fc41"
+    },
+    {
+      "id": "c02s04",
+      "expected": "Satiety: processes reducing the tendency to continue eating. Individual variation: differences in responses and circumstances. Biopsychosocial account: biological, psychological and social contributions.\n\nAccess to food, work schedules and cultural practices affect choices. Individual physiology and medical conditions can matter too.\n\nUse the concepts to understand complexity rather than police another person’s eating. The course does not provide weight-control advice or assess disordered eating.",
+      "heard": "Satiety processes reducing the tendency to continue eating. Individual variation, differences in responses and circumstances. Biopsychosocial account, biological, psychological and social contributions. Access to food, work schedules and cultural practices affect choices. Individual physiology and medical conditions can matter too. Use the concepts to understand complexity rather than police another person's eating. The course does not provide weight control advice or assessed disordered eating.",
+      "ratio": 0.9844,
+      "model": "small.en",
+      "duration": 35.689,
+      "wpm": 111.7,
+      "peak": 0.47900390625,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "da53bb9810452438368ecdb06aec0cd49e0041f365b51d4e692611ef50981965"
+    },
+    {
+      "id": "c02s05",
+      "expected": "Drive and incentive accounts capture different influences. Laboratory manipulations isolate selected conditions and do not describe every real-world eating decision.\n\nPhysiological regulation, learned cues and social circumstances can all contribute; one observed choice cannot establish their relative weights.",
+      "heard": "Drive and incentive accounts capture different influences. Laboratory manipulations isolate selected conditions and do not describe every real world eating decision. Physiological regulation, learned cues and social circumstances can all contribute. One observed choice cannot establish their relative weights.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 21.258,
+      "wpm": 113.5,
+      "peak": 0.445037841796875,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "2914d2d569262cb7e3e3f12caaa3f113e2258194d09cece2643cd29b2febbbc2"
+    },
+    {
+      "id": "c02s07-answers",
+      "expected": "An incentive is an anticipated situational outcome; a physiological need concerns bodily regulation.\n\nEating reflects multiple bodily, learned and social influences.",
+      "heard": "An incentive is an anticipated situational outcome. A physiological need concerns bodily regulation. Eating reflects multiple bodily, learned, and social influences.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 12.893,
+      "wpm": 112.1,
+      "peak": 0.488433837890625,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "695e0dbfa98ae647e2a1b64bb5395b2583b3956c8baca3e64fc0e9606e787706"
+    },
+    {
+      "id": "c03s02-feedback-0",
+      "expected": "The route and its demands may be the problem despite a valued goal.",
+      "heard": "The route and its demands may be the problem despite a valued goal.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 3.947,
+      "wpm": 197.6,
+      "peak": 0.33978271484375,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "61e5014e4dac2d1893288731fe7a1c99fa3224c6961e28289cbab8128241409d"
+    },
+    {
+      "id": "c03s03",
+      "expected": "Subjective value: importance or usefulness of an outcome. Cost: effort, time or other burden of pursuing an option.\n\nA person can value a goal while doubting a route to it. Effort can also depend on the costs and alternatives.\n\nJo’s avoidance could reflect low expectancy, public pressure or unclear instruction. Ask about the particular task rather than inferring a global lack of interest.",
+      "heard": "Subjective value, importance or usefulness of an outcome, cost, effort, time, or other burden of pursuing an option. A person can value a goal while doubting a route to it. Effort can also depend on the costs and alternatives. Joe's avoidance could reflect low expectancy, public pressure, or unclear instruction. about the particular task rather than inferring a global lack of interest.",
+      "ratio": 0.992,
+      "model": "small.en",
+      "duration": 26.196,
+      "wpm": 151.8,
+      "peak": 0.516754150390625,
+      "flags": [],
+      "raw_sha256": "56947926be7476ad7dfa7a5e37ec70fcb489c27be5b98802b620c12c0891da00"
+    },
+    {
+      "id": "c04s02-feedback-2",
+      "expected": "Autonomy does not require isolation.",
+      "heard": "Autonomy does not require isolation.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 2.581,
+      "wpm": 116.2,
+      "peak": 0.41455078125,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "9049a502e420d1858314658f5785d586de101bf83c8cfae646990f62e6b373a9"
+    },
+    {
+      "id": "c04s03",
+      "expected": "Relatedness: experience of connection and belonging.\n\nSelf-determination theory examines how social conditions support motivation and wellbeing. Autonomy concerns acting with a sense of volition, not necessarily acting alone.\n\nA person can freely choose cooperation and guidance. Competence support and respectful relationships can matter alongside choice.",
+      "heard": "relatedness, experience of connection and belonging. Self-determination theory examines how social conditions support motivation and well-being. Autonomy concerns acting with a sense of volition, not necessarily acting alone. A person can freely choose cooperation and guidance. Competence, support, and respectful relationships can matter alongside choice.",
+      "ratio": 0.9677,
+      "model": "small.en",
+      "duration": 24.916,
+      "wpm": 116.9,
+      "peak": 0.508026123046875,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "9db9e98d0be6d5a01d55eeb04935d7bc72ae50990e4b51f18509f50ed5a74259"
+    },
+    {
+      "id": "c05s03",
+      "expected": "Goal specificity: how clearly a desired outcome is defined. Goal difficulty: the demand relative to current capability. Feedback: information about progress or performance.\n\nSpecific, challenging goals can focus effort when commitment, knowledge and resources support them. They can also narrow attention to the counted outcome.\n\nFor unfamiliar complex tasks, a learning goal may help more than a demanding output quota. Clarify the skill and safe standard before increasing pressure.",
+      "heard": "Goal specificity, how clearly a desired outcome is defined. Goal difficulty, the demand relative to current capability. Feedback, information about progress or performance. Specific, challenging goals can focus effort when commitment, knowledge, and resources support them. They can also narrow attention to the counted outcome. For unfamiliar complex tasks, a learning goal may help more than a demanding output quota. Clarify the skill and safe standard before increasing pressure.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 32.66,
+      "wpm": 132.0,
+      "peak": 0.636932373046875,
+      "flags": [],
+      "raw_sha256": "b4b23ad37e7fd7562568e22e843b1556aba80712a9297bf5e589fd17532c19f0"
+    },
+    {
+      "id": "c06s02-feedback-1",
+      "expected": "Real choices often involve competing outcomes.",
+      "heard": "Real choices often involve competing outcomes.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 3.072,
+      "wpm": 117.2,
+      "peak": 0.407318115234375,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "a5b73c4a72e76b9e69894e93ea7206b1632add308f4afbfed9df181b8bd5e2b4"
+    },
+    {
+      "id": "c06s02-feedback-2",
+      "expected": "The observation is insufficient for diagnosis.",
+      "heard": "The observation is insufficient for diagnosis.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 3.093,
+      "wpm": 116.4,
+      "peak": 0.392242431640625,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "5a8494221907d198ee06a0c490f88012d042b91771669218d86f18e95b261589"
+    },
+    {
+      "id": "c06s03",
+      "expected": "Approach motivation: movement toward a desired outcome. Avoidance motivation: movement away from an undesired outcome. Approach–avoidance conflict: one option has attractive and aversive aspects.\n\nA presentation can offer contribution and learning while carrying social risk. Conflicting motives are not necessarily inconsistency or dishonesty.\n\nSpecify the desired and undesired outcomes. A person may need a different route to the valued goal rather than stronger pressure to choose.",
+      "heard": "Approach motivation, movement toward a desired outcome. Avoidance motivation, movement away from an undesired outcome. Approach avoidance conflict. One option has attractive and aversive aspects. A presentation can offer contribution and learning while carrying social risk. Conflicting motives are not necessarily inconsistency or dishonesty. Specify the desired and undesired outcomes. A person may need a different route to the valued goal, rather than stronger pressure to choose.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 32.767,
+      "wpm": 127.8,
+      "peak": 0.5362548828125,
+      "flags": [],
+      "raw_sha256": "b757a8ffde2632dc08b1e94c45680b1d7c131b7750c693b01641368e6adf09e2"
+    },
+    {
+      "id": "c06s06-feedback-0",
+      "expected": "Coercion ignores safety, preference and clinical boundaries.",
+      "heard": "Coercion ignores safety, preference, and clinical boundaries.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 4.627,
+      "wpm": 115.8,
+      "peak": 0.482940673828125,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "957319a3918a083466f52e0f9316ef3425c77c7abab71a097bea7c5605319f8c"
+    },
+    {
+      "id": "c07s02-feedback-1",
+      "expected": "Expression and experience are distinct observations.",
+      "heard": "Expression and experience are distinct observations.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 3.221,
+      "wpm": 111.8,
+      "peak": 0.40594482421875,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "e4f2594eec726a807aeac0aad5619ae4d5bb717a878c6f6d72956f64f5794caa"
+    },
+    {
+      "id": "c07s02-feedback-2",
+      "expected": "Mixed feelings and social expressions can coexist.",
+      "heard": "Mixed feelings and social expressions can coexist.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 3.115,
+      "wpm": 134.8,
+      "peak": 0.35980224609375,
+      "flags": [],
+      "raw_sha256": "7d20795cb2ecc7c3288dfd333850eb654a9f7030a0dee8d7762eb2f09935adf1"
+    },
+    {
+      "id": "c07s03",
+      "expected": "Subjective feeling: the experienced quality of an emotional state. Expression: observable movement or communication associated with emotion.\n\nEmotion can involve bodily changes, action tendencies, appraisals, expressions and subjective experience. The components need not align perfectly.\n\nA smile can communicate reassurance, politeness or amusement. Ask what the person reports instead of treating a facial cue as a complete emotional reading.",
+      "heard": "Subjective feeling, the experienced quality of an emotional state. Expression, observable movement or communication associated with emotion. Emotion can involve bodily changes, action tendencies, appraisals, expressions and subjective experience. The components need not align perfectly. A smile can communicate reassurance, politeness or amusement. Ask what the person reports instead of treating a facial cue as a complete emotional reading.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 31.209,
+      "wpm": 118.4,
+      "peak": 0.55621337890625,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "522eb0afa692f457b6e6967a666be9a3e0a8443ad1310f3b34b8c4ee73c9df15"
+    },
+    {
+      "id": "c08s03",
+      "expected": "Emotion regulation: processes influencing which emotions occur and how they unfold. Situation selection: choosing which situations to enter. Situation modification: changing relevant features of a situation.\n\nRegulation can involve changing a situation, directing attention, changing interpretation or altering a response. It need not mean suppressing every feeling.\n\nA quieter room may reduce an avoidable demand. Leaving an unsafe setting may be more appropriate than reinterpreting it positively.",
+      "heard": "Emotion regulation, processes influencing which emotions occur and how they unfold. Situation selection, choosing which situations to enter. Situation modification, changing relevant features of a situation. Regulation can involve changing a situation, directing attention, changing interpretation, or altering a response. It need not mean suppressing every feeling. A quieter room may reduce an avoidable demand. Leaving an unsafe setting may be more appropriate than reinterpreting it positively.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 35.263,
+      "wpm": 118.4,
+      "peak": 0.514862060546875,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "351d9deded83f578d42753bf544c9933a4af1bdd82fb502d6f8553989544d8bf"
+    },
+    {
+      "id": "c08s03b",
+      "expected": "Cognitive reappraisal: changing an interpretation to alter an emotional response. Expressive suppression: inhibiting outward emotional expression. Regulatory flexibility: adjusting strategies to goals and conditions.\n\nReappraisal may change the meaning of an ambiguous event. Suppression changes visible expression without necessarily resolving the feeling or situation.\n\nNeither strategy is universally good or bad. Safety, culture, goals and timing affect usefulness. Forced positivity can obscure a real problem that needs action.",
+      "heard": "Cognitive reappraisal, changing an interpretation to alter an emotional response. Expressive suppression, inhibiting outward emotional expression. Regulatory flexibility, adjusting strategies to goals and conditions. Reappraisal may change the meaning of an ambiguous event. Suppression changes visible expression without necessarily resolving the feeling or situation. Neither strategy is universally good or bad. Safety, culture, goals, and timing affect usefulness. Forced positivity can obscure a real problem that needs action.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 37.78,
+      "wpm": 111.8,
+      "peak": 0.533599853515625,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "887134753bb1875577b048f7d36e526491a215fd2f1c6f255d6c71dd0757901c"
+    },
+    {
+      "id": "c08s07-answers",
+      "expected": "Reappraisal changes meaning; suppression inhibits expression.\n\nSafety, controllability, goals and culture affect its consequences.",
+      "heard": "Reappraisal changes meaning. Suppression inhibits expression. Safety, controllability, goals and culture affect its consequences.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 9.735,
+      "wpm": 103.9,
+      "peak": 0.52679443359375,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "5d3bb2df89d2c38b74110feabb58a63b7d92bb804d6451236484fd18a172a938"
+    },
+    {
+      "id": "c09s02-feedback-0",
+      "expected": "Expression norms and individual responses vary.",
+      "heard": "Expression norms and individual responses vary.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 3.115,
+      "wpm": 115.6,
+      "peak": 0.361419677734375,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "be3635bc661bd3d6adf8262962c7f016f79bb9dca20dbc6625e41d5c22caaa42"
+    },
+    {
+      "id": "c09s03",
+      "expected": "Guilt: negative evaluation of a particular action. Shame: negative evaluation focused more broadly on the self. Pride: positive evaluation linked to valued achievement or identity.\n\nThe distinction between evaluating an action and condemning the whole self can clarify a response to mistakes. Experiences vary and the words do not map perfectly across languages.\n\nAn apology can support repair, but visible regret is not a unique measure of responsibility. Look at the response, context and subsequent action.",
+      "heard": "guilt, negative evaluation of a particular action, shame, negative evaluation focused more broadly on the self, pride, positive evaluation linked to valued achievement or identity. The distinction between evaluating an action and condemning the whole self can clarify a response to mistakes. Experiences vary and the words do not map perfectly across languages. An apology can support repair, but visible regret is not a unique measure of responsibility. Look at the response, context, and subsequent action.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 35.177,
+      "wpm": 134.6,
+      "peak": 0.453033447265625,
+      "flags": [],
+      "raw_sha256": "72f433c70f4f18995d0c910a4b09b37b7d0c01b39fa26adcae39f9e314ac1bc8"
+    },
+    {
+      "id": "c09s06-feedback-2",
+      "expected": "Cultural and individual contexts shape interpretation.",
+      "heard": "cultural and individual contexts shape interpretation.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 4.605,
+      "wpm": 99.9,
+      "peak": 0.378082275390625,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "786009eee7b04cada78e53c8fc4d831e3dad219f4692e4d565ff2952177f7bf1"
+    },
+    {
+      "id": "c10s02-feedback-0",
+      "expected": "The practical claim extends beyond immediate enthusiastic reactions.",
+      "heard": "The practical claim extends beyond immediate enthusiastic reactions.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 4.544,
+      "wpm": 105.6,
+      "peak": 0.3724365234375,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "245f31a9c68f41faf4093240c506160823b3a85e39085d6dae0aead7aa11c27f"
+    },
+    {
+      "id": "c10s02-feedback-2",
+      "expected": "Emotional life includes useful and understandable unpleasant feelings.",
+      "heard": "Emotional life includes useful and understandable unpleasant feelings.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 4.437,
+      "wpm": 108.2,
+      "peak": 0.335052490234375,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "12fcd1a5e16c285f565354aeb91aef18d62a5b8c6f8ced1abd555640c83e3e82"
+    },
+    {
+      "id": "c10s03",
+      "expected": "Subjective wellbeing: evaluations and experiences of life quality. Positive affect: pleasant emotional experience.\n\nFeeling good, functioning well and finding meaning are related but distinct outcomes. A useful activity need not feel pleasant at every moment.\n\nAsk what the workshop promises to improve and how it measures that outcome. A temporary mood change is not proof of durable wellbeing.",
+      "heard": "Subjective well-being, evaluations and experiences of life quality. Positive effect, pleasant emotional experience. Feeling good, functioning well and finding meaning are related but distinct outcomes. A useful activity need not feel pleasant at every moment. Ask what the workshop promises to improve and how it measures that outcome. A temporary mood change is not proof of durable well-being.",
+      "ratio": 0.9322,
+      "model": "small.en",
+      "duration": 27.007,
+      "wpm": 135.4,
+      "peak": 0.523193359375,
+      "flags": [],
+      "raw_sha256": "8aa5c3a5ea39e26ad963089c9f7d9f4126d67d4637893fba36898578cb190c81"
+    },
+    {
+      "id": "c10s06-feedback-0",
+      "expected": "There is no evidence for that scope or duration.",
+      "heard": "There is no evidence for that scope or duration.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 3.837,
+      "wpm": 190.3,
+      "peak": 0.509185791015625,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "67516de4cd374b29c465cf5eeb2974b8eaa85c4bca8d84e8511dacfa14ad24ff"
+    }
+  ]
+}

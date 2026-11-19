@@ -1,0 +1,17 @@
+{
+  "c02s02-feedback-0": {
+    "raw_sha256": "7e146fa9b0c4d3856fdae6dd123c3f8f27f7fd9a25f528605b42e591fe3fc4a9",
+    "accept": true,
+    "reason": "The decoder spells cue as Q, an exact homophone. The feedback and its short bounded waveform agree. Automated evidence; not human listening approval."
+  },
+  "c04s03": {
+    "raw_sha256": "9db9e98d0be6d5a01d55eeb04935d7bc72ae50990e4b51f18509f50ed5a74259",
+    "accept": true,
+    "reason": "Wellbeing/well-being is spelling and tokenization of the same spoken expression. The rest of the additional transcript agrees. Automated evidence; not human listening approval."
+  },
+  "c02s04": {
+    "raw_sha256": "da53bb9810452438368ecdb06aec0cd49e0041f365b51d4e692611ef50981965",
+    "accept": true,
+    "reason": "The additional decoder adds the past-tense ending in assess disordered. This is a boundary ambiguity immediately before the d in disordered; the regenerated explicit /əsˈɛs/ contains no past-tense t, and the phrase is in a non-assessment scope statement. All other words agree. The prior independent cropped check also recovers assess disordered accurately. Current phoneme and bounded waveform checks retained. Automated evidence, not human listening approval."
+  }
+}
