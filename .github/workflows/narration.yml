@@ -1,0 +1,33 @@
+name: Produce reviewed narration assets
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: narration-production
+  cancel-in-progress: false
+jobs:
+  record:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+      - uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0
+        with:
+          python-version: '3.12'
+      - name: Install production tools
+        run: |
+          python -m pip install uv==0.13.6
+          if ! command -v ffmpeg; then sudo apt-get update && sudo apt-get install -y ffmpeg; fi
+      - name: Render, encode and independently screen all recordings
+        run: python3 production/render_ci.py
+      - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
+        with:
+          name: narration-assets
+          retention-days: 7
+          path: |
+            audio/
+            production/af-heart/audio/
+            qa/narration-asr.json
+            qa/narration-small-review.json
+            qa/narration-ci-provenance.json
