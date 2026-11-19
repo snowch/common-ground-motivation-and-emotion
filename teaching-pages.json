@@ -1,0 +1,1682 @@
+{
+  "1": [
+    {
+      "id": "c01s03",
+      "kind": "concept",
+      "title": "Motivation concerns direction and persistence.",
+      "points": [
+        "Motivation: processes influencing initiation, direction and persistence of action",
+        "Goal: an outcome an action is directed toward",
+        "Behaviour: an observable action"
+      ],
+      "text": "Goal: an outcome an action is directed toward.\n\nMotivation is not directly visible in one action. Leaving a meeting may reflect competing goals, limited resources or a task already completed.\n\nDescribe the behaviour first. Then ask which motives are plausible and what information would distinguish them. A strong explanation makes predictions rather than attaching a character label.",
+      "stage": "Explanation",
+      "visual": "c01s03",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Distinguish an observed action from a proposed motive and generate a testable alternative."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Motivation research uses several theoretical frameworks and measures. Findings depend on tasks, populations and how effort or persistence is defined.\n\nA fictional story can clarify distinctions, but does not establish an individual’s true motive."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. One behaviour can fit several motivational accounts."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Motivation",
+            "url": "https://openstax.org/books/psychology-2e/pages/10-1-motivation",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "Ryan, Deci (2000): Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being.",
+            "url": "https://doi.org/10.1037/0003-066X.55.1.68",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c01s03b",
+      "kind": "concept",
+      "title": "People manage competing demands.",
+      "points": [
+        "Opportunity cost: what is forgone by choosing an option",
+        "Constraint: condition limiting available action",
+        "Persistence: continuing an action over time"
+      ],
+      "text": "Opportunity cost: what is forgone by choosing an option. Constraint: condition limiting available action. Persistence: continuing an action over time.\n\nEffort on one goal can reduce time for another. The available options depend on schedules, health, access and responsibilities.\n\nLow participation in a particular setting does not imply a lack of valued goals. Ask what the person is trying to do and what the setting makes possible.",
+      "stage": "Explanation",
+      "visual": "c01s03b",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Distinguish an observed action from a proposed motive and generate a testable alternative."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Motivation research uses several theoretical frameworks and measures. Findings depend on tasks, populations and how effort or persistence is defined.\n\nA fictional story can clarify distinctions, but does not establish an individual’s true motive."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Motivation operates within real opportunities and limits."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Motivation",
+            "url": "https://openstax.org/books/psychology-2e/pages/10-1-motivation",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "Ryan, Deci (2000): Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being.",
+            "url": "https://doi.org/10.1037/0003-066X.55.1.68",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c01s04",
+      "kind": "concept",
+      "title": "Use several forms of evidence.",
+      "points": [
+        "Self-report: a person’s account of their experience",
+        "Behavioural measure: recorded action under defined conditions",
+        "Causal inference: a claim about what produces an effect"
+      ],
+      "text": "Self-report: a person’s account of their experience. Behavioural measure: recorded action under defined conditions. Causal inference: a claim about what produces an effect.\n\nA respectful conversation can clarify priorities, while behaviour over suitable opportunities can test a prediction. Neither is a complete mind-reading instrument.\n\nChanging access or instructions may alter participation without changing an underlying preference. Measure the intended outcome and consider alternatives.",
+      "stage": "Explanation",
+      "visual": "c01s04",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Distinguish an observed action from a proposed motive and generate a testable alternative."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Motivation research uses several theoretical frameworks and measures. Findings depend on tasks, populations and how effort or persistence is defined.\n\nA fictional story can clarify distinctions, but does not establish an individual’s true motive."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. A motive is a hypothesis constrained by evidence."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Motivation",
+            "url": "https://openstax.org/books/psychology-2e/pages/10-1-motivation",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "Ryan, Deci (2000): Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being.",
+            "url": "https://doi.org/10.1037/0003-066X.55.1.68",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c01s05",
+      "kind": "evidence",
+      "title": "What does the evidence allow?",
+      "points": [],
+      "text": "Motivation research uses several theoretical frameworks and measures. Findings depend on tasks, populations and how effort or persistence is defined.\n\nA fictional story can clarify distinctions, but does not establish an individual’s true motive.",
+      "stage": "Evidence check",
+      "visual": "c01s05",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Distinguish an observed action from a proposed motive and generate a testable alternative."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Motivation research uses several theoretical frameworks and measures. Findings depend on tasks, populations and how effort or persistence is defined.\n\nA fictional story can clarify distinctions, but does not establish an individual’s true motive."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Avoid treating a behaviour as a complete character assessment."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Motivation",
+            "url": "https://openstax.org/books/psychology-2e/pages/10-1-motivation",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "Ryan, Deci (2000): Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being.",
+            "url": "https://doi.org/10.1037/0003-066X.55.1.68",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    }
+  ],
+  "2": [
+    {
+      "id": "c02s03",
+      "kind": "concept",
+      "title": "Regulation can motivate action.",
+      "points": [
+        "Homeostasis: regulation maintaining conditions within functional ranges",
+        "Drive: motivational state associated with a biological need",
+        "Feedback: information influencing ongoing regulation"
+      ],
+      "text": "Homeostasis: regulation maintaining conditions within functional ranges. Drive: motivational state associated with a biological need. Feedback: information influencing ongoing regulation.\n\nBodily systems regulate conditions such as energy and fluid balance through interacting signals. A physiological need can influence attention and action.\n\nHuman eating and other behaviours are not simple readings of one internal meter. Learning, availability, culture and health also contribute.",
+      "stage": "Explanation",
+      "visual": "c02s03",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Explain how bodily regulation and environmental incentives can both influence action."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Drive and incentive accounts capture different influences. Laboratory manipulations isolate selected conditions and do not describe every real-world eating decision.\n\nPhysiological regulation, learned cues and social circumstances can all contribute; one observed choice cannot establish their relative weights."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. The model illustrates one influence rather than a complete explanation."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Motivation",
+            "url": "https://openstax.org/books/psychology-2e/pages/10-1-motivation",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "OpenStax Psychology 2e: Hunger and eating",
+            "url": "https://openstax.org/books/psychology-2e/pages/10-2-hunger-and-eating",
+            "kind": "Open introductory textbook; further context and references."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c02s03b",
+      "kind": "concept",
+      "title": "An incentive is a feature of the situation.",
+      "points": [
+        "Incentive: anticipated outcome that can attract or deter action",
+        "Cue: information associated with an outcome",
+        "Reward learning: learning relations involving valued outcomes"
+      ],
+      "text": "Incentive: anticipated outcome that can attract or deter action. Reward learning: learning relations involving valued outcomes.\n\nA cue associated with a valued outcome can attract attention and action. Its influence depends on learning history and present circumstances.\n\nA smell can matter without proving a biological deficit. Conversely, an environmental cue does not mean bodily needs are irrelevant.",
+      "stage": "Explanation",
+      "visual": "c02s03b",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Explain how bodily regulation and environmental incentives can both influence action."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Drive and incentive accounts capture different influences. Laboratory manipulations isolate selected conditions and do not describe every real-world eating decision.\n\nPhysiological regulation, learned cues and social circumstances can all contribute; one observed choice cannot establish their relative weights."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. The influences can interact rather than compete as exclusive explanations."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Motivation",
+            "url": "https://openstax.org/books/psychology-2e/pages/10-1-motivation",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "OpenStax Psychology 2e: Hunger and eating",
+            "url": "https://openstax.org/books/psychology-2e/pages/10-2-hunger-and-eating",
+            "kind": "Open introductory textbook; further context and references."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c02s04",
+      "kind": "concept",
+      "title": "Useful explanations include context.",
+      "points": [
+        "Satiety: processes reducing the tendency to continue eating",
+        "Individual variation: differences in responses and circumstances",
+        "Biopsychosocial account: biological, psychological and social contributions"
+      ],
+      "text": "Satiety: processes reducing the tendency to continue eating. Individual variation: differences in responses and circumstances. Biopsychosocial account: biological, psychological and social contributions.\n\nAccess to food, work schedules and cultural practices affect choices. Individual physiology and medical conditions can matter too.\n\nUse the concepts to understand complexity rather than police another person’s eating. The course does not provide weight-control advice or assess disordered eating.",
+      "stage": "Explanation",
+      "visual": "c02s04",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Explain how bodily regulation and environmental incentives can both influence action."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Drive and incentive accounts capture different influences. Laboratory manipulations isolate selected conditions and do not describe every real-world eating decision.\n\nPhysiological regulation, learned cues and social circumstances can all contribute; one observed choice cannot establish their relative weights."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. One observed choice does not uniquely identify its cause."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Motivation",
+            "url": "https://openstax.org/books/psychology-2e/pages/10-1-motivation",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "OpenStax Psychology 2e: Hunger and eating",
+            "url": "https://openstax.org/books/psychology-2e/pages/10-2-hunger-and-eating",
+            "kind": "Open introductory textbook; further context and references."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c02s05",
+      "kind": "evidence",
+      "title": "What does the evidence allow?",
+      "points": [],
+      "text": "Drive and incentive accounts capture different influences. Laboratory manipulations isolate selected conditions and do not describe every real-world eating decision.\n\nPhysiological regulation, learned cues and social circumstances can all contribute; one observed choice cannot establish their relative weights.",
+      "stage": "Evidence check",
+      "visual": "c02s05",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Explain how bodily regulation and environmental incentives can both influence action."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Drive and incentive accounts capture different influences. Laboratory manipulations isolate selected conditions and do not describe every real-world eating decision.\n\nPhysiological regulation, learned cues and social circumstances can all contribute; one observed choice cannot establish their relative weights."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. A multilevel explanation can accommodate more than one influence."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Motivation",
+            "url": "https://openstax.org/books/psychology-2e/pages/10-1-motivation",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "OpenStax Psychology 2e: Hunger and eating",
+            "url": "https://openstax.org/books/psychology-2e/pages/10-2-hunger-and-eating",
+            "kind": "Open introductory textbook; further context and references."
+          }
+        ]
+      }
+    }
+  ],
+  "3": [
+    {
+      "id": "c03s03",
+      "kind": "concept",
+      "title": "Wanting and expecting differ.",
+      "points": [
+        "Expectancy: belief about likelihood of success",
+        "Subjective value: importance or usefulness of an outcome",
+        "Cost: effort, time or other burden of pursuing an option"
+      ],
+      "text": "Subjective value: importance or usefulness of an outcome. Cost: effort, time or other burden of pursuing an option.\n\nA person can value a goal while doubting a route to it. Effort can also depend on the costs and alternatives.\n\nJo’s avoidance could reflect low expectancy, public pressure or unclear instruction. Ask about the particular task rather than inferring a global lack of interest.",
+      "stage": "Explanation",
+      "visual": "c03s03",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Distinguish valuing an outcome from expecting that effort will achieve it."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Expectancy-value frameworks explain choices using beliefs, values and costs, but measures and predictive relations vary across tasks and contexts.\n\nA plausible motivational explanation is not a diagnosis. Beliefs and opportunities can affect each other over time."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. High value does not guarantee high expectancy or low cost."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Motivation",
+            "url": "https://openstax.org/books/psychology-2e/pages/10-1-motivation",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "Ryan, Deci (2000): Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being.",
+            "url": "https://doi.org/10.1037/0003-066X.55.1.68",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Bandura (1977): Self-efficacy: Toward a unifying theory of behavioral change.",
+            "url": "https://doi.org/10.1037/0033-295X.84.2.191",
+            "kind": "Scholarly research or review; publisher access may vary."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c03s03b",
+      "kind": "concept",
+      "title": "Self-efficacy is task-specific.",
+      "points": [
+        "Self-efficacy: belief in capability to perform a specified action",
+        "Mastery experience: successful performance relevant to capability beliefs",
+        "Calibration: match between a judgment and suitable evidence"
+      ],
+      "text": "Self-efficacy: belief in capability to perform a specified action. Mastery experience: successful performance relevant to capability beliefs. Calibration: match between a judgment and suitable evidence.\n\nConfidence about one action need not extend to another. An achievable, informative practice attempt can provide evidence about what is possible.\n\nPraise alone may not clarify capability. Compare a prediction with actual performance, then identify the missing skill or support rather than demanding confidence.",
+      "stage": "Explanation",
+      "visual": "c03s03b",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Distinguish valuing an outcome from expecting that effort will achieve it."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Expectancy-value frameworks explain choices using beliefs, values and costs, but measures and predictive relations vary across tasks and contexts.\n\nA plausible motivational explanation is not a diagnosis. Beliefs and opportunities can affect each other over time."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Capability beliefs should be interpreted against specific tasks and evidence."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Motivation",
+            "url": "https://openstax.org/books/psychology-2e/pages/10-1-motivation",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "Ryan, Deci (2000): Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being.",
+            "url": "https://doi.org/10.1037/0003-066X.55.1.68",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Bandura (1977): Self-efficacy: Toward a unifying theory of behavioral change.",
+            "url": "https://doi.org/10.1037/0033-295X.84.2.191",
+            "kind": "Scholarly research or review; publisher access may vary."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c03s04",
+      "kind": "concept",
+      "title": "Changing the route can change the choice.",
+      "points": [
+        "Attribution: an explanation for an outcome",
+        "Controllability: whether a factor can be influenced",
+        "Task support: assistance addressing a relevant demand"
+      ],
+      "text": "Attribution: an explanation for an outcome. Controllability: whether a factor can be influenced. Task support: assistance addressing a relevant demand.\n\nAn outcome may be explained by task design, strategy, preparation or access as well as ability. Some conditions can be changed by the person, others need external support.\n\nOffer a clearer example or a lower-pressure rehearsal, then check what changes. Avoid replacing every structural barrier with an attitude lesson.",
+      "stage": "Explanation",
+      "visual": "c03s04",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Distinguish valuing an outcome from expecting that effort will achieve it."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Expectancy-value frameworks explain choices using beliefs, values and costs, but measures and predictive relations vary across tasks and contexts.\n\nA plausible motivational explanation is not a diagnosis. Beliefs and opportunities can affect each other over time."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. A useful plan addresses actual beliefs and conditions."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Motivation",
+            "url": "https://openstax.org/books/psychology-2e/pages/10-1-motivation",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "Ryan, Deci (2000): Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being.",
+            "url": "https://doi.org/10.1037/0003-066X.55.1.68",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Bandura (1977): Self-efficacy: Toward a unifying theory of behavioral change.",
+            "url": "https://doi.org/10.1037/0033-295X.84.2.191",
+            "kind": "Scholarly research or review; publisher access may vary."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c03s05",
+      "kind": "evidence",
+      "title": "What does the evidence allow?",
+      "points": [],
+      "text": "Expectancy-value frameworks explain choices using beliefs, values and costs, but measures and predictive relations vary across tasks and contexts.\n\nA plausible motivational explanation is not a diagnosis. Beliefs and opportunities can affect each other over time.",
+      "stage": "Evidence check",
+      "visual": "c03s05",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Distinguish valuing an outcome from expecting that effort will achieve it."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Expectancy-value frameworks explain choices using beliefs, values and costs, but measures and predictive relations vary across tasks and contexts.\n\nA plausible motivational explanation is not a diagnosis. Beliefs and opportunities can affect each other over time."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Different barriers call for different supports."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Motivation",
+            "url": "https://openstax.org/books/psychology-2e/pages/10-1-motivation",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "Ryan, Deci (2000): Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being.",
+            "url": "https://doi.org/10.1037/0003-066X.55.1.68",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Bandura (1977): Self-efficacy: Toward a unifying theory of behavioral change.",
+            "url": "https://doi.org/10.1037/0033-295X.84.2.191",
+            "kind": "Scholarly research or review; publisher access may vary."
+          }
+        ]
+      }
+    }
+  ],
+  "4": [
+    {
+      "id": "c04s03",
+      "kind": "concept",
+      "title": "Self-determination theory names three needs.",
+      "points": [
+        "Autonomy: experience of meaningful volition",
+        "Competence: experience of effectiveness in activity",
+        "Relatedness: experience of connection and belonging"
+      ],
+      "text": "Relatedness: experience of connection and belonging.\n\nSelf-determination theory examines how social conditions support motivation and wellbeing. Autonomy concerns acting with a sense of volition, not necessarily acting alone.\n\nA person can freely choose cooperation and guidance. Competence support and respectful relationships can matter alongside choice.",
+      "stage": "Explanation",
+      "visual": "c04s03",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Distinguish autonomy, competence and relatedness from absence of structure or universal rewards rules."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Self-determination theory has a substantial research literature, with findings depending on measures, context and study design. Its constructs are theoretical tools, not a personality test.\n\nReward effects are conditional. An observational association between support and engagement does not isolate causation by itself."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. These theoretical constructs are related but not interchangeable."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Motivation",
+            "url": "https://openstax.org/books/psychology-2e/pages/10-1-motivation",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "Ryan, Deci (2000): Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being.",
+            "url": "https://doi.org/10.1037/0003-066X.55.1.68",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c04s03b",
+      "kind": "concept",
+      "title": "Structure can support autonomy.",
+      "points": [
+        "Autonomy support: acknowledging perspective and meaningful choice",
+        "Structure: clear expectations, guidance and feedback",
+        "Control: pressure to act in a prescribed way"
+      ],
+      "text": "Autonomy support: acknowledging perspective and meaningful choice. Structure: clear expectations, guidance and feedback. Control: pressure to act in a prescribed way.\n\nExplain the purpose of a task, offer real options where possible and provide clear guidance. A safety boundary can coexist with meaningful participation.\n\nA choice between two unusable options is not much support. Nor does vague freedom necessarily provide the resources needed to succeed.",
+      "stage": "Explanation",
+      "visual": "c04s03b",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Distinguish autonomy, competence and relatedness from absence of structure or universal rewards rules."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Self-determination theory has a substantial research literature, with findings depending on measures, context and study design. Its constructs are theoretical tools, not a personality test.\n\nReward effects are conditional. An observational association between support and engagement does not isolate causation by itself."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Autonomy support can include structure without coercion."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Motivation",
+            "url": "https://openstax.org/books/psychology-2e/pages/10-1-motivation",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "Ryan, Deci (2000): Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being.",
+            "url": "https://doi.org/10.1037/0003-066X.55.1.68",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c04s04",
+      "kind": "concept",
+      "title": "Motivation varies in its regulation.",
+      "points": [
+        "Intrinsic motivation: acting for interest in the activity",
+        "Extrinsic motivation: acting for a separable outcome",
+        "Internalization: taking in and endorsing a value or regulation"
+      ],
+      "text": "Intrinsic motivation: acting for interest in the activity. Extrinsic motivation: acting for a separable outcome. Internalization: taking in and endorsing a value or regulation.\n\nExtrinsic motives vary: a person may act under pressure or because they endorse the purpose. Intrinsic enjoyment is not required for every worthwhile task.\n\nReward effects depend on form, expectation and context. Avoid the blanket claim that every reward destroys motivation or that every incentive helps.",
+      "stage": "Explanation",
+      "visual": "c04s04",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Distinguish autonomy, competence and relatedness from absence of structure or universal rewards rules."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Self-determination theory has a substantial research literature, with findings depending on measures, context and study design. Its constructs are theoretical tools, not a personality test.\n\nReward effects are conditional. An observational association between support and engagement does not isolate causation by itself."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Extrinsic motivation is not one uniform kind of pressure."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Motivation",
+            "url": "https://openstax.org/books/psychology-2e/pages/10-1-motivation",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "Ryan, Deci (2000): Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being.",
+            "url": "https://doi.org/10.1037/0003-066X.55.1.68",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c04s05",
+      "kind": "evidence",
+      "title": "What does the evidence allow?",
+      "points": [],
+      "text": "Self-determination theory has a substantial research literature, with findings depending on measures, context and study design. Its constructs are theoretical tools, not a personality test.\n\nReward effects are conditional. An observational association between support and engagement does not isolate causation by itself.",
+      "stage": "Evidence check",
+      "visual": "c04s05",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Distinguish autonomy, competence and relatedness from absence of structure or universal rewards rules."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Self-determination theory has a substantial research literature, with findings depending on measures, context and study design. Its constructs are theoretical tools, not a personality test.\n\nReward effects are conditional. An observational association between support and engagement does not isolate causation by itself."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Support concerns the quality of conditions, not a motivational slogan."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Motivation",
+            "url": "https://openstax.org/books/psychology-2e/pages/10-1-motivation",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "Ryan, Deci (2000): Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being.",
+            "url": "https://doi.org/10.1037/0003-066X.55.1.68",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    }
+  ],
+  "5": [
+    {
+      "id": "c05s03",
+      "kind": "concept",
+      "title": "A target directs attention.",
+      "points": [
+        "Goal specificity: how clearly a desired outcome is defined",
+        "Goal difficulty: the demand relative to current capability",
+        "Feedback: information about progress or performance"
+      ],
+      "text": "Goal specificity: how clearly a desired outcome is defined. Goal difficulty: the demand relative to current capability. Feedback: information about progress or performance.\n\nSpecific, challenging goals can focus effort when commitment, knowledge and resources support them. They can also narrow attention to the counted outcome.\n\nFor unfamiliar complex tasks, a learning goal may help more than a demanding output quota. Clarify the skill and safe standard before increasing pressure.",
+      "stage": "Explanation",
+      "visual": "c05s03",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Design a suitable process goal and evaluate a measurable outcome without optimizing a harmful proxy."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Goal-setting effects depend on task knowledge, feedback, resources and the way goals are framed. A useful average effect does not justify every quota.\n\nOutput measures can create unintended trade-offs. A complete evaluation includes quality and unwanted effects."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. The useful target depends on task complexity and current skill."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Motivation",
+            "url": "https://openstax.org/books/psychology-2e/pages/10-1-motivation",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "Locke, Latham (2002): Building a practically useful theory of goal setting and task motivation: A 35-year odyssey.",
+            "url": "https://doi.org/10.1037/0003-066X.57.9.705",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c05s03b",
+      "kind": "concept",
+      "title": "A process plan connects cue and action.",
+      "points": [
+        "Process goal: target concerning how to perform an activity",
+        "Implementation intention: if-then plan linking a situation and action",
+        "Monitoring: checking progress against a suitable standard"
+      ],
+      "text": "Implementation intention: if-then plan linking a situation and action. Monitoring: checking progress against a suitable standard.\n\nA process goal might require checking the fault list before closing a repair. An if-then plan specifies when the step should occur.\n\nA plan must remain usable under real constraints. Check accuracy and burden rather than treating adherence to the plan as the only outcome.",
+      "stage": "Explanation",
+      "visual": "c05s03b",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Design a suitable process goal and evaluate a measurable outcome without optimizing a harmful proxy."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Goal-setting effects depend on task knowledge, feedback, resources and the way goals are framed. A useful average effect does not justify every quota.\n\nOutput measures can create unintended trade-offs. A complete evaluation includes quality and unwanted effects."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. The process should serve the meaningful outcome."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Motivation",
+            "url": "https://openstax.org/books/psychology-2e/pages/10-1-motivation",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "Locke, Latham (2002): Building a practically useful theory of goal setting and task motivation: A 35-year odyssey.",
+            "url": "https://doi.org/10.1037/0003-066X.57.9.705",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c05s04",
+      "kind": "concept",
+      "title": "Revision can be intelligent regulation.",
+      "points": [
+        "Goal disengagement: reducing commitment to an unattainable or unsuitable goal",
+        "Re-engagement: committing to another meaningful goal",
+        "Proxy: a measure standing in for an intended outcome"
+      ],
+      "text": "Goal disengagement: reducing commitment to an unattainable or unsuitable goal. Re-engagement: committing to another meaningful goal. Proxy: a measure standing in for an intended outcome.\n\nPersistence is useful only relative to a worthwhile, feasible goal. Evidence of harm, changed conditions or unattainability can justify revision.\n\nA higher repair count with more faults may be a worse outcome. Review accuracy, safety and participant experience alongside speed.",
+      "stage": "Explanation",
+      "visual": "c05s04",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Design a suitable process goal and evaluate a measurable outcome without optimizing a harmful proxy."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Goal-setting effects depend on task knowledge, feedback, resources and the way goals are framed. A useful average effect does not justify every quota.\n\nOutput measures can create unintended trade-offs. A complete evaluation includes quality and unwanted effects."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. A target is a tool for action, not a reason to ignore harm."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Motivation",
+            "url": "https://openstax.org/books/psychology-2e/pages/10-1-motivation",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "Locke, Latham (2002): Building a practically useful theory of goal setting and task motivation: A 35-year odyssey.",
+            "url": "https://doi.org/10.1037/0003-066X.57.9.705",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c05s05",
+      "kind": "evidence",
+      "title": "What does the evidence allow?",
+      "points": [],
+      "text": "Goal-setting effects depend on task knowledge, feedback, resources and the way goals are framed. A useful average effect does not justify every quota.\n\nOutput measures can create unintended trade-offs. A complete evaluation includes quality and unwanted effects.",
+      "stage": "Evidence check",
+      "visual": "c05s05",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Design a suitable process goal and evaluate a measurable outcome without optimizing a harmful proxy."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Goal-setting effects depend on task knowledge, feedback, resources and the way goals are framed. A useful average effect does not justify every quota.\n\nOutput measures can create unintended trade-offs. A complete evaluation includes quality and unwanted effects."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. More effort is not always the right response to a badly specified goal."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Motivation",
+            "url": "https://openstax.org/books/psychology-2e/pages/10-1-motivation",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "Locke, Latham (2002): Building a practically useful theory of goal setting and task motivation: A 35-year odyssey.",
+            "url": "https://doi.org/10.1037/0003-066X.57.9.705",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    }
+  ],
+  "6": [
+    {
+      "id": "c06s03",
+      "kind": "concept",
+      "title": "The same option can attract and deter.",
+      "points": [
+        "Approach motivation: movement toward a desired outcome",
+        "Avoidance motivation: movement away from an undesired outcome",
+        "Approach–avoidance conflict: one option has attractive and aversive aspects"
+      ],
+      "text": "Approach motivation: movement toward a desired outcome. Avoidance motivation: movement away from an undesired outcome. Approach–avoidance conflict: one option has attractive and aversive aspects.\n\nA presentation can offer contribution and learning while carrying social risk. Conflicting motives are not necessarily inconsistency or dishonesty.\n\nSpecify the desired and undesired outcomes. A person may need a different route to the valued goal rather than stronger pressure to choose.",
+      "stage": "Explanation",
+      "visual": "c06s03",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Explain an ambivalent choice without treating avoidance as weakness or approach as universally better."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Approach and avoidance frameworks describe motivational relations whose value depends on context. Immediate relief does not by itself establish a disorder or a maladaptive pattern.\n\nClinical assessment is needed for persistent distress or impairment; the course is conceptual education."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Conflicting motives can operate at the same time."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Motivation",
+            "url": "https://openstax.org/books/psychology-2e/pages/10-1-motivation",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "OpenStax Psychology 2e: Anxiety disorders",
+            "url": "https://openstax.org/books/psychology-2e/pages/15-4-anxiety-disorders",
+            "kind": "Open introductory textbook; further context and references."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c06s03b",
+      "kind": "concept",
+      "title": "Avoidance has a function and a cost.",
+      "points": [
+        "Avoidance learning: learning actions that prevent an aversive outcome",
+        "Negative reinforcement: removal or prevention increasing an action",
+        "Short-term relief: immediate reduction in discomfort"
+      ],
+      "text": "Avoidance learning: learning actions that prevent an aversive outcome. Negative reinforcement: removal or prevention increasing an action. Short-term relief: immediate reduction in discomfort.\n\nAvoidance can protect from real danger. In some contexts, immediate relief can also maintain avoidance that limits valued activity.\n\nThe function depends on whether the threat is real, the available alternatives and the person’s circumstances. A course exercise should not ask someone to confront danger or treat anxiety without professional support.",
+      "stage": "Explanation",
+      "visual": "c06s03b",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Explain an ambivalent choice without treating avoidance as weakness or approach as universally better."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Approach and avoidance frameworks describe motivational relations whose value depends on context. Immediate relief does not by itself establish a disorder or a maladaptive pattern.\n\nClinical assessment is needed for persistent distress or impairment; the course is conceptual education."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. The same action may be protective or restrictive in different conditions."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Motivation",
+            "url": "https://openstax.org/books/psychology-2e/pages/10-1-motivation",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "OpenStax Psychology 2e: Anxiety disorders",
+            "url": "https://openstax.org/books/psychology-2e/pages/15-4-anxiety-disorders",
+            "kind": "Open introductory textbook; further context and references."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c06s04",
+      "kind": "concept",
+      "title": "Change the choice architecture respectfully.",
+      "points": [
+        "Ambivalence: mixed evaluations of an option",
+        "Opportunity: a feasible route to action",
+        "Agency: capacity for meaningful participation and choice"
+      ],
+      "text": "Ambivalence: mixed evaluations of an option. Opportunity: a feasible route to action. Agency: capacity for meaningful participation and choice.\n\nA small-group discussion may allow Jo to contribute without the same public demand. The team can preserve genuine options and ask what support is useful.\n\nDo not treat every reluctance as a symptom. Evaluate access, safety and preference before interpreting the motivational pattern.",
+      "stage": "Explanation",
+      "visual": "c06s04",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Explain an ambivalent choice without treating avoidance as weakness or approach as universally better."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Approach and avoidance frameworks describe motivational relations whose value depends on context. Immediate relief does not by itself establish a disorder or a maladaptive pattern.\n\nClinical assessment is needed for persistent distress or impairment; the course is conceptual education."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Support can alter the route without denying the conflict."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Motivation",
+            "url": "https://openstax.org/books/psychology-2e/pages/10-1-motivation",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "OpenStax Psychology 2e: Anxiety disorders",
+            "url": "https://openstax.org/books/psychology-2e/pages/15-4-anxiety-disorders",
+            "kind": "Open introductory textbook; further context and references."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c06s05",
+      "kind": "evidence",
+      "title": "What does the evidence allow?",
+      "points": [],
+      "text": "Approach and avoidance frameworks describe motivational relations whose value depends on context. Immediate relief does not by itself establish a disorder or a maladaptive pattern.\n\nClinical assessment is needed for persistent distress or impairment; the course is conceptual education.",
+      "stage": "Evidence check",
+      "visual": "c06s05",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Explain an ambivalent choice without treating avoidance as weakness or approach as universally better."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Approach and avoidance frameworks describe motivational relations whose value depends on context. Immediate relief does not by itself establish a disorder or a maladaptive pattern.\n\nClinical assessment is needed for persistent distress or impairment; the course is conceptual education."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Avoidance is interpreted through its function and consequences."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Motivation",
+            "url": "https://openstax.org/books/psychology-2e/pages/10-1-motivation",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "OpenStax Psychology 2e: Anxiety disorders",
+            "url": "https://openstax.org/books/psychology-2e/pages/15-4-anxiety-disorders",
+            "kind": "Open introductory textbook; further context and references."
+          }
+        ]
+      }
+    }
+  ],
+  "7": [
+    {
+      "id": "c07s03",
+      "kind": "concept",
+      "title": "Feeling and expression are different measures.",
+      "points": [
+        "Emotion: a coordinated pattern involving experience, appraisal and response",
+        "Subjective feeling: the experienced quality of an emotional state",
+        "Expression: observable movement or communication associated with emotion"
+      ],
+      "text": "Subjective feeling: the experienced quality of an emotional state. Expression: observable movement or communication associated with emotion.\n\nEmotion can involve bodily changes, action tendencies, appraisals, expressions and subjective experience. The components need not align perfectly.\n\nA smile can communicate reassurance, politeness or amusement. Ask what the person reports instead of treating a facial cue as a complete emotional reading.",
+      "stage": "Explanation",
+      "visual": "c07s03",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Distinguish subjective feeling, physiology, expression and appraisal without treating any one as a unique readout."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Emotion theories differ in constructs and predictions, and there is no universal one-to-one map between a facial movement, brain region or physiological signal and every emotion.\n\nMeasures should be interpreted together with context, individual report and their own limitations."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. One component does not uniquely identify all the others."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Emotion",
+            "url": "https://openstax.org/books/psychology-2e/pages/10-4-emotion",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "Gross (1998): The Emerging Field of Emotion Regulation: An Integrative Review",
+            "url": "https://doi.org/10.1037/1089-2680.2.3.271",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c07s03b",
+      "kind": "concept",
+      "title": "Theories explain relationships differently.",
+      "points": [
+        "James–Lange account: feeling involves perception of bodily changes",
+        "Cannon–Bard account: experience and bodily response occur in parallel",
+        "Two-factor account: arousal and contextual interpretation contribute to emotion"
+      ],
+      "text": "James–Lange account: feeling involves perception of bodily changes. Cannon–Bard account: experience and bodily response occur in parallel. Two-factor account: arousal and contextual interpretation contribute to emotion.\n\nClassic theories differ on the role and ordering of bodily response and experience. Contemporary approaches examine more complex interactions and multiple timescales.\n\nUse the theories as testable explanations, not as three complete recipes that settle every emotion. The café story alone cannot distinguish their predictions.",
+      "stage": "Explanation",
+      "visual": "c07s03b",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Distinguish subjective feeling, physiology, expression and appraisal without treating any one as a unique readout."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Emotion theories differ in constructs and predictions, and there is no universal one-to-one map between a facial movement, brain region or physiological signal and every emotion.\n\nMeasures should be interpreted together with context, individual report and their own limitations."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Theories need suitable tests beyond a plausible everyday anecdote."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Emotion",
+            "url": "https://openstax.org/books/psychology-2e/pages/10-4-emotion",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "Gross (1998): The Emerging Field of Emotion Regulation: An Integrative Review",
+            "url": "https://doi.org/10.1037/1089-2680.2.3.271",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c07s04",
+      "kind": "concept",
+      "title": "Appraisal links events with concerns.",
+      "points": [
+        "Appraisal: evaluation of significance for goals and wellbeing",
+        "Valence: pleasantness or unpleasantness of experience",
+        "Arousal: level of physiological or subjective activation"
+      ],
+      "text": "Appraisal: evaluation of significance for goals and wellbeing.\n\nAn event can feel different depending on its meaning for the person. Being watched may mean welcome recognition or threat of criticism.\n\nValence and arousal describe dimensions without explaining the whole cause. Emotional vocabulary should clarify a report rather than override the person’s account.",
+      "stage": "Explanation",
+      "visual": "c07s04",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Distinguish subjective feeling, physiology, expression and appraisal without treating any one as a unique readout."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Emotion theories differ in constructs and predictions, and there is no universal one-to-one map between a facial movement, brain region or physiological signal and every emotion.\n\nMeasures should be interpreted together with context, individual report and their own limitations."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. The appraisals are hypotheses, not a reading of someone’s mind."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Emotion",
+            "url": "https://openstax.org/books/psychology-2e/pages/10-4-emotion",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "Gross (1998): The Emerging Field of Emotion Regulation: An Integrative Review",
+            "url": "https://doi.org/10.1037/1089-2680.2.3.271",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c07s05",
+      "kind": "evidence",
+      "title": "What does the evidence allow?",
+      "points": [],
+      "text": "Emotion theories differ in constructs and predictions, and there is no universal one-to-one map between a facial movement, brain region or physiological signal and every emotion.\n\nMeasures should be interpreted together with context, individual report and their own limitations.",
+      "stage": "Evidence check",
+      "visual": "c07s05",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Distinguish subjective feeling, physiology, expression and appraisal without treating any one as a unique readout."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Emotion theories differ in constructs and predictions, and there is no universal one-to-one map between a facial movement, brain region or physiological signal and every emotion.\n\nMeasures should be interpreted together with context, individual report and their own limitations."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Emotional understanding uses several sources rather than one cue."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Emotion",
+            "url": "https://openstax.org/books/psychology-2e/pages/10-4-emotion",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "Gross (1998): The Emerging Field of Emotion Regulation: An Integrative Review",
+            "url": "https://doi.org/10.1037/1089-2680.2.3.271",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    }
+  ],
+  "8": [
+    {
+      "id": "c08s03",
+      "kind": "concept",
+      "title": "Regulation can occur at several points.",
+      "points": [
+        "Emotion regulation: processes influencing which emotions occur and how they unfold",
+        "Situation selection: choosing which situations to enter",
+        "Situation modification: changing relevant features of a situation"
+      ],
+      "text": "Emotion regulation: processes influencing which emotions occur and how they unfold. Situation selection: choosing which situations to enter. Situation modification: changing relevant features of a situation.\n\nRegulation can involve changing a situation, directing attention, changing interpretation or altering a response. It need not mean suppressing every feeling.\n\nA quieter room may reduce an avoidable demand. Leaving an unsafe setting may be more appropriate than reinterpreting it positively.",
+      "stage": "Explanation",
+      "visual": "c08s03",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Compare regulation strategies and select an appropriate option without claiming one strategy is always best."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Emotion-regulation findings depend on strategy, context, culture and outcome. Associations with wellbeing do not imply that one strategy is best for every person.\n\nThis course introduces concepts, not individualized psychological treatment. Do not use regulation language to dismiss another person’s concern."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. The sequence is a useful framework, not one universal prescription."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Emotion",
+            "url": "https://openstax.org/books/psychology-2e/pages/10-4-emotion",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "Gross (1998): The Emerging Field of Emotion Regulation: An Integrative Review",
+            "url": "https://doi.org/10.1037/1089-2680.2.3.271",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c08s03b",
+      "kind": "concept",
+      "title": "Reappraisal and suppression do different work.",
+      "points": [
+        "Cognitive reappraisal: changing an interpretation to alter an emotional response",
+        "Expressive suppression: inhibiting outward emotional expression",
+        "Regulatory flexibility: adjusting strategies to goals and conditions"
+      ],
+      "text": "Cognitive reappraisal: changing an interpretation to alter an emotional response. Expressive suppression: inhibiting outward emotional expression. Regulatory flexibility: adjusting strategies to goals and conditions.\n\nReappraisal may change the meaning of an ambiguous event. Suppression changes visible expression without necessarily resolving the feeling or situation.\n\nNeither strategy is universally good or bad. Safety, culture, goals and timing affect usefulness. Forced positivity can obscure a real problem that needs action.",
+      "stage": "Explanation",
+      "visual": "c08s03b",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Compare regulation strategies and select an appropriate option without claiming one strategy is always best."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Emotion-regulation findings depend on strategy, context, culture and outcome. Associations with wellbeing do not imply that one strategy is best for every person.\n\nThis course introduces concepts, not individualized psychological treatment. Do not use regulation language to dismiss another person’s concern."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. A strategy’s consequences depend on its purpose and context."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Emotion",
+            "url": "https://openstax.org/books/psychology-2e/pages/10-4-emotion",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "Gross (1998): The Emerging Field of Emotion Regulation: An Integrative Review",
+            "url": "https://doi.org/10.1037/1089-2680.2.3.271",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c08s04",
+      "kind": "concept",
+      "title": "Evaluate outcomes, not strategy slogans.",
+      "points": [
+        "Acceptance: allowing an experience without necessarily endorsing its cause",
+        "Problem solving: acting on a changeable source of difficulty",
+        "Regulation goal: the intended outcome of a strategy"
+      ],
+      "text": "Problem solving: acting on a changeable source of difficulty. Regulation goal: the intended outcome of a strategy.\n\nSometimes a practical change is possible; sometimes allowing a feeling while choosing an action is more useful. Acceptance does not require tolerating abuse or abandoning appropriate care.\n\nDefine the goal and check effects on functioning and relationships. Persistent distress warrants professional support rather than escalating self-directed exercises.",
+      "stage": "Explanation",
+      "visual": "c08s04",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Compare regulation strategies and select an appropriate option without claiming one strategy is always best."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Emotion-regulation findings depend on strategy, context, culture and outcome. Associations with wellbeing do not imply that one strategy is best for every person.\n\nThis course introduces concepts, not individualized psychological treatment. Do not use regulation language to dismiss another person’s concern."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Regulation should fit the problem rather than erase emotional information."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Emotion",
+            "url": "https://openstax.org/books/psychology-2e/pages/10-4-emotion",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "Gross (1998): The Emerging Field of Emotion Regulation: An Integrative Review",
+            "url": "https://doi.org/10.1037/1089-2680.2.3.271",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c08s05",
+      "kind": "evidence",
+      "title": "What does the evidence allow?",
+      "points": [],
+      "text": "Emotion-regulation findings depend on strategy, context, culture and outcome. Associations with wellbeing do not imply that one strategy is best for every person.\n\nThis course introduces concepts, not individualized psychological treatment. Do not use regulation language to dismiss another person’s concern.",
+      "stage": "Evidence check",
+      "visual": "c08s05",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Compare regulation strategies and select an appropriate option without claiming one strategy is always best."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Emotion-regulation findings depend on strategy, context, culture and outcome. Associations with wellbeing do not imply that one strategy is best for every person.\n\nThis course introduces concepts, not individualized psychological treatment. Do not use regulation language to dismiss another person’s concern."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. The best choice is conditional rather than a universal slogan."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Emotion",
+            "url": "https://openstax.org/books/psychology-2e/pages/10-4-emotion",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "Gross (1998): The Emerging Field of Emotion Regulation: An Integrative Review",
+            "url": "https://doi.org/10.1037/1089-2680.2.3.271",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    }
+  ],
+  "9": [
+    {
+      "id": "c09s03",
+      "kind": "concept",
+      "title": "Social emotions concern relationships and standards.",
+      "points": [
+        "Guilt: negative evaluation of a particular action",
+        "Shame: negative evaluation focused more broadly on the self",
+        "Pride: positive evaluation linked to valued achievement or identity"
+      ],
+      "text": "Guilt: negative evaluation of a particular action. Shame: negative evaluation focused more broadly on the self. Pride: positive evaluation linked to valued achievement or identity.\n\nThe distinction between evaluating an action and condemning the whole self can clarify a response to mistakes. Experiences vary and the words do not map perfectly across languages.\n\nAn apology can support repair, but visible regret is not a unique measure of responsibility. Look at the response, context and subsequent action.",
+      "stage": "Explanation",
+      "visual": "c09s03",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Explain social emotions without inferring a universal meaning from one expression or norm."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Emotion research examines social norms, appraisals and relationships using varied measures. Broad cultural averages are not fixed rules for each group member.\n\nNo expression, word or apology uniquely establishes a person’s moral character or emotional history."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. The distinction is conceptual and does not diagnose a person’s state."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Emotion",
+            "url": "https://openstax.org/books/psychology-2e/pages/10-4-emotion",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "Ryan, Deci (2000): Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being.",
+            "url": "https://doi.org/10.1037/0003-066X.55.1.68",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Tangney, Stuewig, Mashek (2007): Moral Emotions and Moral Behavior",
+            "url": "https://doi.org/10.1146/annurev.psych.56.091103.070145",
+            "kind": "Scholarly research or review; publisher access may vary."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c09s03b",
+      "kind": "concept",
+      "title": "Expression follows social conditions.",
+      "points": [
+        "Display rule: social expectation about emotional expression",
+        "Cultural context: shared practices and meanings in a setting",
+        "Emotion norm: expectation about appropriate feeling or response"
+      ],
+      "text": "Display rule: social expectation about emotional expression. Cultural context: shared practices and meanings in a setting. Emotion norm: expectation about appropriate feeling or response.\n\nPeople learn expectations about when and how to express feelings. These vary within as well as across cultural groups.\n\nQuietness may reflect respect, discomfort or concentration. Ask rather than using nationality, gender or a single expression as an emotional explanation.",
+      "stage": "Explanation",
+      "visual": "c09s03b",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Explain social emotions without inferring a universal meaning from one expression or norm."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Emotion research examines social norms, appraisals and relationships using varied measures. Broad cultural averages are not fixed rules for each group member.\n\nNo expression, word or apology uniquely establishes a person’s moral character or emotional history."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Group-level patterns do not identify an individual’s feeling."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Emotion",
+            "url": "https://openstax.org/books/psychology-2e/pages/10-4-emotion",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "Ryan, Deci (2000): Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being.",
+            "url": "https://doi.org/10.1037/0003-066X.55.1.68",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Tangney, Stuewig, Mashek (2007): Moral Emotions and Moral Behavior",
+            "url": "https://doi.org/10.1146/annurev.psych.56.091103.070145",
+            "kind": "Scholarly research or review; publisher access may vary."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c09s04",
+      "kind": "concept",
+      "title": "Empathy does not guarantee accuracy.",
+      "points": [
+        "Affective empathy: sharing or resonating with another’s feeling",
+        "Perspective taking: considering another’s viewpoint",
+        "Compassion: concern for another’s difficulty and wish to help"
+      ],
+      "text": "Affective empathy: sharing or resonating with another’s feeling. Perspective taking: considering another’s viewpoint. Compassion: concern for another’s difficulty and wish to help.\n\nFeeling with someone, understanding their viewpoint and wanting to help are distinct processes. Strong emotional resonance can still misread what support is wanted.\n\nCheck your interpretation and offer a concrete choice. A respectful question can be more accurate than confidence that you already know the feeling.",
+      "stage": "Explanation",
+      "visual": "c09s04",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Explain social emotions without inferring a universal meaning from one expression or norm."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Emotion research examines social norms, appraisals and relationships using varied measures. Broad cultural averages are not fixed rules for each group member.\n\nNo expression, word or apology uniquely establishes a person’s moral character or emotional history."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Care does not require certainty about another person’s internal state."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Emotion",
+            "url": "https://openstax.org/books/psychology-2e/pages/10-4-emotion",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "Ryan, Deci (2000): Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being.",
+            "url": "https://doi.org/10.1037/0003-066X.55.1.68",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Tangney, Stuewig, Mashek (2007): Moral Emotions and Moral Behavior",
+            "url": "https://doi.org/10.1146/annurev.psych.56.091103.070145",
+            "kind": "Scholarly research or review; publisher access may vary."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c09s05",
+      "kind": "evidence",
+      "title": "What does the evidence allow?",
+      "points": [],
+      "text": "Emotion research examines social norms, appraisals and relationships using varied measures. Broad cultural averages are not fixed rules for each group member.\n\nNo expression, word or apology uniquely establishes a person’s moral character or emotional history.",
+      "stage": "Evidence check",
+      "visual": "c09s05",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Explain social emotions without inferring a universal meaning from one expression or norm."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Emotion research examines social norms, appraisals and relationships using varied measures. Broad cultural averages are not fixed rules for each group member.\n\nNo expression, word or apology uniquely establishes a person’s moral character or emotional history."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Understanding improves when interpretations remain revisable."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: Emotion",
+            "url": "https://openstax.org/books/psychology-2e/pages/10-4-emotion",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "Ryan, Deci (2000): Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being.",
+            "url": "https://doi.org/10.1037/0003-066X.55.1.68",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Tangney, Stuewig, Mashek (2007): Moral Emotions and Moral Behavior",
+            "url": "https://doi.org/10.1146/annurev.psych.56.091103.070145",
+            "kind": "Scholarly research or review; publisher access may vary."
+          }
+        ]
+      }
+    }
+  ],
+  "10": [
+    {
+      "id": "c10s03",
+      "kind": "concept",
+      "title": "Wellbeing has several meanings.",
+      "points": [
+        "Subjective wellbeing: evaluations and experiences of life quality",
+        "Positive affect: pleasant emotional experience",
+        "Meaning: sense that activities or life matter"
+      ],
+      "text": "Subjective wellbeing: evaluations and experiences of life quality. Positive affect: pleasant emotional experience.\n\nFeeling good, functioning well and finding meaning are related but distinct outcomes. A useful activity need not feel pleasant at every moment.\n\nAsk what the workshop promises to improve and how it measures that outcome. A temporary mood change is not proof of durable wellbeing.",
+      "stage": "Explanation",
+      "visual": "c10s03",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Evaluate a motivation or emotion intervention using meaningful outcomes, alternatives and limits."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Motivation and emotion research provides concepts and conditional findings, not a universal formula for happiness. Product claims require their own evaluation.\n\nCourse visits, confidence and enthusiasm do not certify mastery or prove a wellbeing benefit."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. An enthusiastic reaction does not establish lasting benefit."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: The pursuit of happiness",
+            "url": "https://openstax.org/books/psychology-2e/pages/14-5-the-pursuit-of-happiness",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "Ryan, Deci (2000): Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being.",
+            "url": "https://doi.org/10.1037/0003-066X.55.1.68",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Gross (1998): The Emerging Field of Emotion Regulation: An Integrative Review",
+            "url": "https://doi.org/10.1037/1089-2680.2.3.271",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c10s03b",
+      "kind": "concept",
+      "title": "A testimonial leaves alternatives open.",
+      "points": [
+        "Comparison group: a reference condition for evaluating change",
+        "Expectancy effect: influence of anticipated benefit",
+        "Follow-up: assessment after a defined delay"
+      ],
+      "text": "Comparison group: a reference condition for evaluating change. Expectancy effect: influence of anticipated benefit.\n\nParticipants may improve because of attention, social contact, expectations or other changes. A credible comparison and suitable follow-up help evaluate the particular method.\n\nInclude unwanted effects and who was not helped. A technique should earn support for a defined use rather than claim universal transformation.",
+      "stage": "Explanation",
+      "visual": "c10s03b",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Evaluate a motivation or emotion intervention using meaningful outcomes, alternatives and limits."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Motivation and emotion research provides concepts and conditional findings, not a universal formula for happiness. Product claims require their own evaluation.\n\nCourse visits, confidence and enthusiasm do not certify mastery or prove a wellbeing benefit."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Practical claims require evidence for their actual scope."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: The pursuit of happiness",
+            "url": "https://openstax.org/books/psychology-2e/pages/14-5-the-pursuit-of-happiness",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "Ryan, Deci (2000): Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being.",
+            "url": "https://doi.org/10.1037/0003-066X.55.1.68",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Gross (1998): The Emerging Field of Emotion Regulation: An Integrative Review",
+            "url": "https://doi.org/10.1037/1089-2680.2.3.271",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c10s04",
+      "kind": "concept",
+      "title": "Make a modest, revisable recommendation.",
+      "points": [
+        "Agency: meaningful choice in an action",
+        "Proportionate claim: conclusion matching the strength of evidence",
+        "Professional support: qualified care matched to relevant needs"
+      ],
+      "text": "Agency: meaningful choice in an action. Proportionate claim: conclusion matching the strength of evidence. Professional support: qualified care matched to relevant needs.\n\nUse clear goals, accessible routes and respectful relationships. For a harmless self-chosen routine, test a manageable change and review the outcome.\n\nDo not treat serious distress as a motivation failure. Professional help may be appropriate, and a course is not treatment or a requirement to be happy.",
+      "stage": "Explanation",
+      "visual": "c10s04",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Evaluate a motivation or emotion intervention using meaningful outcomes, alternatives and limits."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Motivation and emotion research provides concepts and conditional findings, not a universal formula for happiness. Product claims require their own evaluation.\n\nCourse visits, confidence and enthusiasm do not certify mastery or prove a wellbeing benefit."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Useful support can remain modest and open to revision."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: The pursuit of happiness",
+            "url": "https://openstax.org/books/psychology-2e/pages/14-5-the-pursuit-of-happiness",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "Ryan, Deci (2000): Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being.",
+            "url": "https://doi.org/10.1037/0003-066X.55.1.68",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Gross (1998): The Emerging Field of Emotion Regulation: An Integrative Review",
+            "url": "https://doi.org/10.1037/1089-2680.2.3.271",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c10s05",
+      "kind": "evidence",
+      "title": "What does the evidence allow?",
+      "points": [],
+      "text": "Motivation and emotion research provides concepts and conditional findings, not a universal formula for happiness. Product claims require their own evaluation.\n\nCourse visits, confidence and enthusiasm do not certify mastery or prove a wellbeing benefit.",
+      "stage": "Evidence check",
+      "visual": "c10s05",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Evaluate a motivation or emotion intervention using meaningful outcomes, alternatives and limits."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Motivation and emotion research provides concepts and conditional findings, not a universal formula for happiness. Product claims require their own evaluation.\n\nCourse visits, confidence and enthusiasm do not certify mastery or prove a wellbeing benefit."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Good intentions and vivid testimonials do not settle efficacy."
+          }
+        ],
+        "sources": [
+          {
+            "title": "OpenStax Psychology 2e: The pursuit of happiness",
+            "url": "https://openstax.org/books/psychology-2e/pages/14-5-the-pursuit-of-happiness",
+            "kind": "Open introductory textbook; further context and references."
+          },
+          {
+            "title": "Ryan, Deci (2000): Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being.",
+            "url": "https://doi.org/10.1037/0003-066X.55.1.68",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Gross (1998): The Emerging Field of Emotion Regulation: An Integrative Review",
+            "url": "https://doi.org/10.1037/1089-2680.2.3.271",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    }
+  ]
+}

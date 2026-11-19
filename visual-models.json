@@ -1,0 +1,714 @@
+{
+  "c01s03": {
+    "type": "compare",
+    "title": "Observation and motive",
+    "left": [
+      "Observed",
+      "Sam leaves early",
+      "A specific event"
+    ],
+    "right": [
+      "Possible motives",
+      "Care, completion, discomfort",
+      "Need more information"
+    ],
+    "caption": "One behaviour can fit several motivational accounts."
+  },
+  "c01s03b": {
+    "type": "rows",
+    "title": "Map the actual choice",
+    "items": [
+      [
+        "Goals",
+        "What outcomes matter?"
+      ],
+      [
+        "Constraints",
+        "What options are available?"
+      ],
+      [
+        "Costs",
+        "What does each choice displace?"
+      ]
+    ],
+    "caption": "Motivation operates within real opportunities and limits."
+  },
+  "c01s04": {
+    "type": "flow",
+    "title": "Investigate rather than label",
+    "items": [
+      [
+        "Describe",
+        "The action and conditions"
+      ],
+      [
+        "Ask",
+        "Goals and barriers"
+      ],
+      [
+        "Compare",
+        "A relevant change in opportunity"
+      ]
+    ],
+    "caption": "A motive is a hypothesis constrained by evidence."
+  },
+  "c01s05": {
+    "type": "rows",
+    "title": "A motivational explanation",
+    "items": [
+      [
+        "Observation",
+        "What happened?"
+      ],
+      [
+        "Alternatives",
+        "Which goals or barriers fit?"
+      ],
+      [
+        "Evidence",
+        "What would distinguish them?"
+      ]
+    ],
+    "caption": "Avoid treating a behaviour as a complete character assessment."
+  },
+  "c02s03": {
+    "type": "flow",
+    "title": "A simplified regulatory model",
+    "items": [
+      [
+        "Change",
+        "A regulated condition shifts"
+      ],
+      [
+        "Signal",
+        "Bodily information changes"
+      ],
+      [
+        "Action",
+        "Behaviour may help regulation"
+      ]
+    ],
+    "caption": "The model illustrates one influence rather than a complete explanation."
+  },
+  "c02s03b": {
+    "type": "compare",
+    "title": "Different sources of influence",
+    "left": [
+      "Internal regulation",
+      "Current bodily state",
+      "Several signals"
+    ],
+    "right": [
+      "Environmental incentive",
+      "Learned and available outcome",
+      "Situation and history"
+    ],
+    "caption": "The influences can interact rather than compete as exclusive explanations."
+  },
+  "c02s04": {
+    "type": "rows",
+    "title": "Interpret a choice carefully",
+    "items": [
+      [
+        "Body",
+        "Current regulation and health"
+      ],
+      [
+        "Learning",
+        "Cues and expectations"
+      ],
+      [
+        "Context",
+        "Access and social conditions"
+      ]
+    ],
+    "caption": "One observed choice does not uniquely identify its cause."
+  },
+  "c02s05": {
+    "type": "rows",
+    "title": "Several influences on action",
+    "items": [
+      [
+        "Regulation",
+        "Bodily needs and signals"
+      ],
+      [
+        "Incentive",
+        "Expected situational outcomes"
+      ],
+      [
+        "Access",
+        "What choices are possible?"
+      ]
+    ],
+    "caption": "A multilevel explanation can accommodate more than one influence."
+  },
+  "c03s03": {
+    "type": "compare",
+    "title": "Two separate questions",
+    "left": [
+      "Value",
+      "Does the outcome matter?",
+      "Personal meaning and usefulness"
+    ],
+    "right": [
+      "Expectancy",
+      "Can this route work?",
+      "Experience and task demands"
+    ],
+    "caption": "High value does not guarantee high expectancy or low cost."
+  },
+  "c03s03b": {
+    "type": "flow",
+    "title": "Build an evidence-based expectation",
+    "items": [
+      [
+        "Specify",
+        "The actual action"
+      ],
+      [
+        "Practise",
+        "A manageable relevant attempt"
+      ],
+      [
+        "Compare",
+        "Prediction with performance"
+      ]
+    ],
+    "caption": "Capability beliefs should be interpreted against specific tasks and evidence."
+  },
+  "c03s04": {
+    "type": "rows",
+    "title": "A practical motivational check",
+    "items": [
+      [
+        "Outcome",
+        "Does it matter?"
+      ],
+      [
+        "Route",
+        "Does effort seem effective?"
+      ],
+      [
+        "Barrier",
+        "Which support is needed?"
+      ]
+    ],
+    "caption": "A useful plan addresses actual beliefs and conditions."
+  },
+  "c03s05": {
+    "type": "rows",
+    "title": "A choice is more than interest",
+    "items": [
+      [
+        "Value",
+        "Why pursue the outcome?"
+      ],
+      [
+        "Expectancy",
+        "Will this route work?"
+      ],
+      [
+        "Cost",
+        "What is required or displaced?"
+      ]
+    ],
+    "caption": "Different barriers call for different supports."
+  },
+  "c04s03": {
+    "type": "rows",
+    "title": "Three different experiences",
+    "items": [
+      [
+        "Autonomy",
+        "A meaningful willing choice"
+      ],
+      [
+        "Competence",
+        "A workable route and feedback"
+      ],
+      [
+        "Relatedness",
+        "Respectful connection"
+      ]
+    ],
+    "caption": "These theoretical constructs are related but not interchangeable."
+  },
+  "c04s03b": {
+    "type": "compare",
+    "title": "Freedom and usable support",
+    "left": [
+      "No guidance",
+      "Unclear task",
+      "Choice may be unusable"
+    ],
+    "right": [
+      "Supported choice",
+      "Clear boundaries",
+      "Meaningful options and feedback"
+    ],
+    "caption": "Autonomy support can include structure without coercion."
+  },
+  "c04s04": {
+    "type": "compare",
+    "title": "Different reasons for action",
+    "left": [
+      "Interest",
+      "Enjoy the activity itself",
+      "Intrinsic motivation"
+    ],
+    "right": [
+      "Endorsed purpose",
+      "Value a separate outcome",
+      "A form of extrinsic motivation"
+    ],
+    "caption": "Extrinsic motivation is not one uniform kind of pressure."
+  },
+  "c04s05": {
+    "type": "rows",
+    "title": "Evaluate the motivational setting",
+    "items": [
+      [
+        "Choice",
+        "Is it meaningful and willing?"
+      ],
+      [
+        "Guidance",
+        "Can the person act effectively?"
+      ],
+      [
+        "Connection",
+        "Is participation respectful?"
+      ]
+    ],
+    "caption": "Support concerns the quality of conditions, not a motivational slogan."
+  },
+  "c05s03": {
+    "type": "compare",
+    "title": "Different goals",
+    "left": [
+      "Output quota",
+      "More repairs per hour",
+      "Risk of a narrow proxy"
+    ],
+    "right": [
+      "Learning goal",
+      "Identify faults accurately",
+      "Build the required strategy"
+    ],
+    "caption": "The useful target depends on task complexity and current skill."
+  },
+  "c05s03b": {
+    "type": "flow",
+    "title": "Connect the goal to the action",
+    "items": [
+      [
+        "Cue",
+        "When a repair is ready"
+      ],
+      [
+        "Step",
+        "Check the fault list"
+      ],
+      [
+        "Feedback",
+        "Inspect accuracy and omissions"
+      ]
+    ],
+    "caption": "The process should serve the meaningful outcome."
+  },
+  "c05s04": {
+    "type": "rows",
+    "title": "Evaluate the goal",
+    "items": [
+      [
+        "Meaning",
+        "What outcome matters?"
+      ],
+      [
+        "Measure",
+        "Does the proxy represent it?"
+      ],
+      [
+        "Revision",
+        "What evidence would change the plan?"
+      ]
+    ],
+    "caption": "A target is a tool for action, not a reason to ignore harm."
+  },
+  "c05s05": {
+    "type": "rows",
+    "title": "A useful goal-setting test",
+    "items": [
+      [
+        "Capability",
+        "Does the learner know how?"
+      ],
+      [
+        "Feedback",
+        "Can progress be checked?"
+      ],
+      [
+        "Outcome",
+        "Are quality and harms included?"
+      ]
+    ],
+    "caption": "More effort is not always the right response to a badly specified goal."
+  },
+  "c06s03": {
+    "type": "compare",
+    "title": "One option, two anticipated outcomes",
+    "left": [
+      "Approach",
+      "Share a useful idea",
+      "Contribution and learning"
+    ],
+    "right": [
+      "Avoidance",
+      "Reduce public criticism",
+      "Protection from a cost"
+    ],
+    "caption": "Conflicting motives can operate at the same time."
+  },
+  "c06s03b": {
+    "type": "flow",
+    "title": "Understand the pattern",
+    "items": [
+      [
+        "Anticipation",
+        "What outcome is feared?"
+      ],
+      [
+        "Action",
+        "What is avoided?"
+      ],
+      [
+        "Consequence",
+        "Relief, safety and later costs"
+      ]
+    ],
+    "caption": "The same action may be protective or restrictive in different conditions."
+  },
+  "c06s04": {
+    "type": "rows",
+    "title": "A respectful response",
+    "items": [
+      [
+        "Ask",
+        "Which outcomes matter?"
+      ],
+      [
+        "Offer",
+        "A feasible alternative route"
+      ],
+      [
+        "Respect",
+        "The person’s choice and boundaries"
+      ]
+    ],
+    "caption": "Support can alter the route without denying the conflict."
+  },
+  "c06s05": {
+    "type": "rows",
+    "title": "Evaluate the conflict",
+    "items": [
+      [
+        "Attraction",
+        "Which valued outcome?"
+      ],
+      [
+        "Concern",
+        "Which anticipated cost?"
+      ],
+      [
+        "Options",
+        "Which safe alternatives?"
+      ]
+    ],
+    "caption": "Avoidance is interpreted through its function and consequences."
+  },
+  "c07s03": {
+    "type": "rows",
+    "title": "Different emotion measures",
+    "items": [
+      [
+        "Experience",
+        "What the person reports"
+      ],
+      [
+        "Body",
+        "Physiological changes"
+      ],
+      [
+        "Expression",
+        "Observable social signals"
+      ]
+    ],
+    "caption": "One component does not uniquely identify all the others."
+  },
+  "c07s03b": {
+    "type": "compare",
+    "title": "Different theoretical questions",
+    "left": [
+      "Bodily processes",
+      "How do internal changes contribute?",
+      "Timing and feedback"
+    ],
+    "right": [
+      "Interpretation",
+      "How does context contribute?",
+      "Meaning and expectation"
+    ],
+    "caption": "Theories need suitable tests beyond a plausible everyday anecdote."
+  },
+  "c07s04": {
+    "type": "compare",
+    "title": "Same event, different significance",
+    "left": [
+      "Recognition",
+      "A valued contribution",
+      "Possible pride"
+    ],
+    "right": [
+      "Evaluation",
+      "Possible public criticism",
+      "Possible anxiety"
+    ],
+    "caption": "The appraisals are hypotheses, not a reading of someone’s mind."
+  },
+  "c07s05": {
+    "type": "rows",
+    "title": "Read an emotion claim",
+    "items": [
+      [
+        "Component",
+        "Which part was measured?"
+      ],
+      [
+        "Context",
+        "What did the event mean?"
+      ],
+      [
+        "Scope",
+        "What cannot be uniquely inferred?"
+      ]
+    ],
+    "caption": "Emotional understanding uses several sources rather than one cue."
+  },
+  "c08s03": {
+    "type": "flow",
+    "title": "Several possible points of action",
+    "items": [
+      [
+        "Situation",
+        "Select or modify conditions"
+      ],
+      [
+        "Attention and meaning",
+        "Choose focus or interpretation"
+      ],
+      [
+        "Response",
+        "Adjust expression or action"
+      ]
+    ],
+    "caption": "The sequence is a useful framework, not one universal prescription."
+  },
+  "c08s03b": {
+    "type": "compare",
+    "title": "Different targets",
+    "left": [
+      "Reappraisal",
+      "Change the interpretation",
+      "Check whether it is accurate"
+    ],
+    "right": [
+      "Suppression",
+      "Change visible expression",
+      "Feeling may remain"
+    ],
+    "caption": "A strategy’s consequences depend on its purpose and context."
+  },
+  "c08s04": {
+    "type": "rows",
+    "title": "Choose a proportionate strategy",
+    "items": [
+      [
+        "Safety",
+        "Is the situation harmful?"
+      ],
+      [
+        "Control",
+        "What can actually change?"
+      ],
+      [
+        "Goal",
+        "Which outcome matters?"
+      ]
+    ],
+    "caption": "Regulation should fit the problem rather than erase emotional information."
+  },
+  "c08s05": {
+    "type": "rows",
+    "title": "A regulation decision",
+    "items": [
+      [
+        "Situation",
+        "Safe, controllable or constrained?"
+      ],
+      [
+        "Strategy",
+        "Which process is targeted?"
+      ],
+      [
+        "Outcome",
+        "Does it serve the actual goal?"
+      ]
+    ],
+    "caption": "The best choice is conditional rather than a universal slogan."
+  },
+  "c09s03": {
+    "type": "compare",
+    "title": "Different evaluations",
+    "left": [
+      "Action-focused",
+      "This action caused a problem",
+      "Correction may follow"
+    ],
+    "right": [
+      "Self-focused",
+      "I am the problem",
+      "A broader self-judgment"
+    ],
+    "caption": "The distinction is conceptual and does not diagnose a person’s state."
+  },
+  "c09s03b": {
+    "type": "rows",
+    "title": "Interpret expression carefully",
+    "items": [
+      [
+        "Setting",
+        "What norms apply here?"
+      ],
+      [
+        "Person",
+        "What do they report?"
+      ],
+      [
+        "Action",
+        "What happens next?"
+      ]
+    ],
+    "caption": "Group-level patterns do not identify an individual’s feeling."
+  },
+  "c09s04": {
+    "type": "flow",
+    "title": "From inference to support",
+    "items": [
+      [
+        "Notice",
+        "A possible difficulty"
+      ],
+      [
+        "Ask",
+        "Check the interpretation"
+      ],
+      [
+        "Offer",
+        "A practical wanted option"
+      ]
+    ],
+    "caption": "Care does not require certainty about another person’s internal state."
+  },
+  "c09s05": {
+    "type": "rows",
+    "title": "A social-emotion interpretation",
+    "items": [
+      [
+        "Evidence",
+        "Words, actions and report"
+      ],
+      [
+        "Norms",
+        "Context without stereotypes"
+      ],
+      [
+        "Support",
+        "Check what is wanted"
+      ]
+    ],
+    "caption": "Understanding improves when interpretations remain revisable."
+  },
+  "c10s03": {
+    "type": "compare",
+    "title": "Different outcomes",
+    "left": [
+      "Immediate experience",
+      "Mood after an event",
+      "A short time window"
+    ],
+    "right": [
+      "Durable benefit",
+      "Functioning and valued life",
+      "Needs later evidence"
+    ],
+    "caption": "An enthusiastic reaction does not establish lasting benefit."
+  },
+  "c10s03b": {
+    "type": "flow",
+    "title": "Evaluate the promise",
+    "items": [
+      [
+        "Specify",
+        "Outcome and population"
+      ],
+      [
+        "Compare",
+        "Credible alternative conditions"
+      ],
+      [
+        "Revisit",
+        "Benefit, burden and persistence"
+      ]
+    ],
+    "caption": "Practical claims require evidence for their actual scope."
+  },
+  "c10s04": {
+    "type": "rows",
+    "title": "A final recommendation",
+    "items": [
+      [
+        "Goal",
+        "Meaningful and specific"
+      ],
+      [
+        "Support",
+        "Feasible and freely chosen"
+      ],
+      [
+        "Review",
+        "Evidence and limits"
+      ]
+    ],
+    "caption": "Useful support can remain modest and open to revision."
+  },
+  "c10s05": {
+    "type": "rows",
+    "title": "A credible motivational claim",
+    "items": [
+      [
+        "Construct",
+        "Which benefit is meant?"
+      ],
+      [
+        "Evidence",
+        "Which comparison and delay?"
+      ],
+      [
+        "Application",
+        "Whom does it help, with what limits?"
+      ]
+    ],
+    "caption": "Good intentions and vivid testimonials do not settle efficacy."
+  }
+}

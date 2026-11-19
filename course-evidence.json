@@ -1,0 +1,197 @@
+{
+  "1": {
+    "claims": [
+      "Distinguish an observed action from a proposed motive and generate a testable alternative."
+    ],
+    "note": "Motivation research uses several theoretical frameworks and measures. Findings depend on tasks, populations and how effort or persistence is defined.\n\nA fictional story can clarify distinctions, but does not establish an individual’s true motive.",
+    "sources": [
+      {
+        "title": "OpenStax Psychology 2e: Motivation",
+        "url": "https://openstax.org/books/psychology-2e/pages/10-1-motivation",
+        "kind": "Open introductory textbook; further context and references."
+      },
+      {
+        "title": "Ryan, Deci (2000): Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being.",
+        "url": "https://doi.org/10.1037/0003-066X.55.1.68",
+        "kind": "Scholarly source; publisher access may vary."
+      }
+    ]
+  },
+  "2": {
+    "claims": [
+      "Explain how bodily regulation and environmental incentives can both influence action."
+    ],
+    "note": "Drive and incentive accounts capture different influences. Laboratory manipulations isolate selected conditions and do not describe every real-world eating decision.\n\nPhysiological regulation, learned cues and social circumstances can all contribute; one observed choice cannot establish their relative weights.",
+    "sources": [
+      {
+        "title": "OpenStax Psychology 2e: Motivation",
+        "url": "https://openstax.org/books/psychology-2e/pages/10-1-motivation",
+        "kind": "Open introductory textbook; further context and references."
+      },
+      {
+        "title": "OpenStax Psychology 2e: Hunger and eating",
+        "url": "https://openstax.org/books/psychology-2e/pages/10-2-hunger-and-eating",
+        "kind": "Open introductory textbook; further context and references."
+      }
+    ]
+  },
+  "3": {
+    "claims": [
+      "Distinguish valuing an outcome from expecting that effort will achieve it."
+    ],
+    "note": "Expectancy-value frameworks explain choices using beliefs, values and costs, but measures and predictive relations vary across tasks and contexts.\n\nA plausible motivational explanation is not a diagnosis. Beliefs and opportunities can affect each other over time.",
+    "sources": [
+      {
+        "title": "OpenStax Psychology 2e: Motivation",
+        "url": "https://openstax.org/books/psychology-2e/pages/10-1-motivation",
+        "kind": "Open introductory textbook; further context and references."
+      },
+      {
+        "title": "Ryan, Deci (2000): Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being.",
+        "url": "https://doi.org/10.1037/0003-066X.55.1.68",
+        "kind": "Scholarly source; publisher access may vary."
+      },
+      {
+        "title": "Bandura (1977): Self-efficacy: Toward a unifying theory of behavioral change.",
+        "url": "https://doi.org/10.1037/0033-295X.84.2.191",
+        "kind": "Scholarly research or review; publisher access may vary."
+      }
+    ]
+  },
+  "4": {
+    "claims": [
+      "Distinguish autonomy, competence and relatedness from absence of structure or universal rewards rules."
+    ],
+    "note": "Self-determination theory has a substantial research literature, with findings depending on measures, context and study design. Its constructs are theoretical tools, not a personality test.\n\nReward effects are conditional. An observational association between support and engagement does not isolate causation by itself.",
+    "sources": [
+      {
+        "title": "OpenStax Psychology 2e: Motivation",
+        "url": "https://openstax.org/books/psychology-2e/pages/10-1-motivation",
+        "kind": "Open introductory textbook; further context and references."
+      },
+      {
+        "title": "Ryan, Deci (2000): Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being.",
+        "url": "https://doi.org/10.1037/0003-066X.55.1.68",
+        "kind": "Scholarly source; publisher access may vary."
+      }
+    ]
+  },
+  "5": {
+    "claims": [
+      "Design a suitable process goal and evaluate a measurable outcome without optimizing a harmful proxy."
+    ],
+    "note": "Goal-setting effects depend on task knowledge, feedback, resources and the way goals are framed. A useful average effect does not justify every quota.\n\nOutput measures can create unintended trade-offs. A complete evaluation includes quality and unwanted effects.",
+    "sources": [
+      {
+        "title": "OpenStax Psychology 2e: Motivation",
+        "url": "https://openstax.org/books/psychology-2e/pages/10-1-motivation",
+        "kind": "Open introductory textbook; further context and references."
+      },
+      {
+        "title": "Locke, Latham (2002): Building a practically useful theory of goal setting and task motivation: A 35-year odyssey.",
+        "url": "https://doi.org/10.1037/0003-066X.57.9.705",
+        "kind": "Scholarly source; publisher access may vary."
+      }
+    ]
+  },
+  "6": {
+    "claims": [
+      "Explain an ambivalent choice without treating avoidance as weakness or approach as universally better."
+    ],
+    "note": "Approach and avoidance frameworks describe motivational relations whose value depends on context. Immediate relief does not by itself establish a disorder or a maladaptive pattern.\n\nClinical assessment is needed for persistent distress or impairment; the course is conceptual education.",
+    "sources": [
+      {
+        "title": "OpenStax Psychology 2e: Motivation",
+        "url": "https://openstax.org/books/psychology-2e/pages/10-1-motivation",
+        "kind": "Open introductory textbook; further context and references."
+      },
+      {
+        "title": "OpenStax Psychology 2e: Anxiety disorders",
+        "url": "https://openstax.org/books/psychology-2e/pages/15-4-anxiety-disorders",
+        "kind": "Open introductory textbook; further context and references."
+      }
+    ]
+  },
+  "7": {
+    "claims": [
+      "Distinguish subjective feeling, physiology, expression and appraisal without treating any one as a unique readout."
+    ],
+    "note": "Emotion theories differ in constructs and predictions, and there is no universal one-to-one map between a facial movement, brain region or physiological signal and every emotion.\n\nMeasures should be interpreted together with context, individual report and their own limitations.",
+    "sources": [
+      {
+        "title": "OpenStax Psychology 2e: Emotion",
+        "url": "https://openstax.org/books/psychology-2e/pages/10-4-emotion",
+        "kind": "Open introductory textbook; further context and references."
+      },
+      {
+        "title": "Gross (1998): The Emerging Field of Emotion Regulation: An Integrative Review",
+        "url": "https://doi.org/10.1037/1089-2680.2.3.271",
+        "kind": "Scholarly source; publisher access may vary."
+      }
+    ]
+  },
+  "8": {
+    "claims": [
+      "Compare regulation strategies and select an appropriate option without claiming one strategy is always best."
+    ],
+    "note": "Emotion-regulation findings depend on strategy, context, culture and outcome. Associations with wellbeing do not imply that one strategy is best for every person.\n\nThis course introduces concepts, not individualized psychological treatment. Do not use regulation language to dismiss another person’s concern.",
+    "sources": [
+      {
+        "title": "OpenStax Psychology 2e: Emotion",
+        "url": "https://openstax.org/books/psychology-2e/pages/10-4-emotion",
+        "kind": "Open introductory textbook; further context and references."
+      },
+      {
+        "title": "Gross (1998): The Emerging Field of Emotion Regulation: An Integrative Review",
+        "url": "https://doi.org/10.1037/1089-2680.2.3.271",
+        "kind": "Scholarly source; publisher access may vary."
+      }
+    ]
+  },
+  "9": {
+    "claims": [
+      "Explain social emotions without inferring a universal meaning from one expression or norm."
+    ],
+    "note": "Emotion research examines social norms, appraisals and relationships using varied measures. Broad cultural averages are not fixed rules for each group member.\n\nNo expression, word or apology uniquely establishes a person’s moral character or emotional history.",
+    "sources": [
+      {
+        "title": "OpenStax Psychology 2e: Emotion",
+        "url": "https://openstax.org/books/psychology-2e/pages/10-4-emotion",
+        "kind": "Open introductory textbook; further context and references."
+      },
+      {
+        "title": "Ryan, Deci (2000): Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being.",
+        "url": "https://doi.org/10.1037/0003-066X.55.1.68",
+        "kind": "Scholarly source; publisher access may vary."
+      },
+      {
+        "title": "Tangney, Stuewig, Mashek (2007): Moral Emotions and Moral Behavior",
+        "url": "https://doi.org/10.1146/annurev.psych.56.091103.070145",
+        "kind": "Scholarly research or review; publisher access may vary."
+      }
+    ]
+  },
+  "10": {
+    "claims": [
+      "Evaluate a motivation or emotion intervention using meaningful outcomes, alternatives and limits."
+    ],
+    "note": "Motivation and emotion research provides concepts and conditional findings, not a universal formula for happiness. Product claims require their own evaluation.\n\nCourse visits, confidence and enthusiasm do not certify mastery or prove a wellbeing benefit.",
+    "sources": [
+      {
+        "title": "OpenStax Psychology 2e: The pursuit of happiness",
+        "url": "https://openstax.org/books/psychology-2e/pages/14-5-the-pursuit-of-happiness",
+        "kind": "Open introductory textbook; further context and references."
+      },
+      {
+        "title": "Ryan, Deci (2000): Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being.",
+        "url": "https://doi.org/10.1037/0003-066X.55.1.68",
+        "kind": "Scholarly source; publisher access may vary."
+      },
+      {
+        "title": "Gross (1998): The Emerging Field of Emotion Regulation: An Integrative Review",
+        "url": "https://doi.org/10.1037/1089-2680.2.3.271",
+        "kind": "Scholarly source; publisher access may vary."
+      }
+    ]
+  }
+}

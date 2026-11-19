@@ -1,0 +1,79 @@
+{
+  "title": "Try a new case",
+  "caseTitle": "The community orchestra",
+  "subtitle": "An optional written transfer check after the ten chapters",
+  "intro": "Try this fictional case without your notes. Allow twenty to thirty minutes. Write somewhere private; this page does not collect or grade your answers. Compare with the suggested reasoning after your attempt.",
+  "paragraphs": [
+    "A musician values performing but misses rehearsals that conflict with care work. Another cares about the concert but doubts the current practice strategy. The conductor calls both unmotivated.",
+    "A new plan offers complete freedom but no guidance. A quota rewards speed over accurate playing. A member wants a solo and fears public criticism at the same time.",
+    "Before a performance, a pulse increase and a smile are treated as proof of happiness. Members are told to suppress all concern, including concerns about an unsafe stage. Different visible apologies after mistakes are ranked as moral character.",
+    "A workshop promises permanent motivation after participants report feeling better immediately. There is no comparison or later measure."
+  ],
+  "tasks": [
+    {
+      "title": "Goals, constraints and value",
+      "chapters": [
+        1,
+        2,
+        3
+      ],
+      "prompt": "Distinguish value, expectancy, bodily needs, incentives and opportunity in the rehearsal choices.",
+      "answer": "Absence can reflect caring constraints rather than low value. Valuing a concert differs from expecting a strategy to work. Bodily states and situational incentives can contribute without uniquely explaining the action. Ask respectfully and compare feasible routes."
+    },
+    {
+      "title": "Support and goals",
+      "chapters": [
+        4,
+        5
+      ],
+      "prompt": "Revise the freedom-only plan and speed quota.",
+      "answer": "Provide meaningful choice, clear guidance, useful feedback and connection. Use learning and process goals when needed, and measure musical accuracy and safety rather than count alone. Revise a goal if its proxy creates harm."
+    },
+    {
+      "title": "Conflict and emotion",
+      "chapters": [
+        6,
+        7
+      ],
+      "prompt": "Explain the solo conflict and limits of the pulse and smile claims.",
+      "answer": "Approach to a valued outcome can coexist with avoidance of criticism. Pulse and expression are components whose meaning needs context and self-report. They do not uniquely identify happiness or any other emotion."
+    },
+    {
+      "title": "Regulation and social meaning",
+      "chapters": [
+        8,
+        9
+      ],
+      "prompt": "Respond to the unsafe stage and different apologies.",
+      "answer": "Address the hazard instead of requiring positive reinterpretation or suppression. Expression norms and individual feelings vary; assess actual repair actions and ask what support is wanted rather than ranking visible emotion."
+    },
+    {
+      "title": "Evaluate the workshop",
+      "chapters": [
+        1,
+        5,
+        10
+      ],
+      "prompt": "Propose a credible test and a bounded recommendation.",
+      "answer": "Define a meaningful outcome, use a credible comparison and delayed follow-up, assess quality and unwanted effects, and preserve voluntary participation. Immediate mood is not durable efficacy. Persistent distress may need professional support rather than motivational pressure."
+    }
+  ],
+  "rubric": [
+    {
+      "title": "Accurate distinctions",
+      "strong": "Explains the relevant concepts and separates observations from interpretations.",
+      "developing": "Adds labels without explaining how the evidence supports them."
+    },
+    {
+      "title": "Evidence and alternatives",
+      "strong": "Considers competing explanations and a comparison that could distinguish them.",
+      "developing": "Treats a plausible account, score or correlation as a settled cause."
+    },
+    {
+      "title": "Proportionate application",
+      "strong": "States limitations, respects the people involved and explains what would change the recommendation.",
+      "developing": "Overgeneralizes to individuals or makes a recommendation beyond the evidence."
+    }
+  ],
+  "followup": "Return tomorrow or in a week with an unfamiliar example. Compare the quality of your explanation, not just your confidence. This self-check does not certify professional competence or establish general mastery."
+}

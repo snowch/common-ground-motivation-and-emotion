@@ -1,0 +1,172 @@
+{
+  "1": {
+    "prompt": "What conclusion is proportionate?",
+    "options": [
+      "The person lacks all motivation.",
+      "Scheduling is a plausible barrier to investigate.",
+      "Attendance is unrelated to any motive."
+    ],
+    "correct": 1,
+    "feedback": [
+      "The observation concerns one constrained setting.",
+      "The changed opportunity gives a testable alternative explanation.",
+      "The limitation does not prove motivation never contributes."
+    ],
+    "context": "A volunteer attends when sessions fit caring responsibilities and misses sessions that conflict.",
+    "reasoningPrompt": "Explain your choice. Which evidence supports it, what alternative remains, and what would change your conclusion?",
+    "revision": "motivation-and-emotion-v1"
+  },
+  "2": {
+    "prompt": "What is the most careful conclusion?",
+    "options": [
+      "Availability is one influence alongside other conditions.",
+      "The change proves a permanent biological deficit.",
+      "A single environmental change explains every food choice."
+    ],
+    "correct": 0,
+    "feedback": [
+      "The observed setting supports a bounded contextual inference.",
+      "Availability does not diagnose an internal deficit.",
+      "The result does not eliminate other influences."
+    ],
+    "context": "A café changes its opening hours and visitors’ meal choices shift.",
+    "reasoningPrompt": "Explain your choice. Which evidence supports it, what alternative remains, and what would change your conclusion?",
+    "revision": "motivation-and-emotion-v1"
+  },
+  "3": {
+    "prompt": "Which support most directly tests the route?",
+    "options": [
+      "Repeat a vague encouragement to try harder.",
+      "Offer a clear rehearsal and compare predicted with actual performance.",
+      "Assume low confidence is permanent."
+    ],
+    "correct": 1,
+    "feedback": [
+      "It does not identify the missing strategy or condition.",
+      "The attempt can provide specific evidence and reveal needed support.",
+      "Capability beliefs can vary with experience and task."
+    ],
+    "context": "A learner values a task but doubts that the available strategy will help.",
+    "reasoningPrompt": "Explain your choice. Which evidence supports it, what alternative remains, and what would change your conclusion?",
+    "revision": "motivation-and-emotion-v1"
+  },
+  "4": {
+    "prompt": "Which description fits best?",
+    "options": [
+      "Only pressure can motivate necessary tasks.",
+      "Endorsed extrinsic motivation can support the action.",
+      "The person must enjoy every minute intrinsically."
+    ],
+    "correct": 1,
+    "feedback": [
+      "A person can willingly endorse a purpose.",
+      "The separate outcome is personally valued even when the activity is not enjoyable.",
+      "Intrinsic enjoyment is not the only meaningful reason to act."
+    ],
+    "context": "A volunteer dislikes data entry but freely values its role in keeping the café accessible.",
+    "reasoningPrompt": "Explain your choice. Which evidence supports it, what alternative remains, and what would change your conclusion?",
+    "revision": "motivation-and-emotion-v1"
+  },
+  "5": {
+    "prompt": "Which plan best fits a new complex skill?",
+    "options": [
+      "A learning goal with clear feedback and a safety standard.",
+      "A harder quota without instruction.",
+      "Persistence regardless of repeated harmful errors."
+    ],
+    "correct": 0,
+    "feedback": [
+      "The plan develops the relevant strategy and evaluates quality.",
+      "Pressure does not substitute for missing skill or access.",
+      "Goals should be revised when their pursuit causes harm."
+    ],
+    "context": "New volunteers are learning an unfamiliar diagnostic procedure.",
+    "reasoningPrompt": "Explain your choice. Which evidence supports it, what alternative remains, and what would change your conclusion?",
+    "revision": "motivation-and-emotion-v1"
+  },
+  "6": {
+    "prompt": "Which response is most appropriate?",
+    "options": [
+      "Force the public presentation to remove avoidance.",
+      "Ask about the concern and offer a workable way to contribute.",
+      "Assume every avoidance action is harmful."
+    ],
+    "correct": 1,
+    "feedback": [
+      "Coercion ignores safety, preference and clinical boundaries.",
+      "The response examines the function and preserves meaningful choice.",
+      "Avoidance can protect against real costs or danger."
+    ],
+    "context": "A volunteer wants to contribute but declines a particular public format.",
+    "reasoningPrompt": "Explain your choice. Which evidence supports it, what alternative remains, and what would change your conclusion?",
+    "revision": "motivation-and-emotion-v1"
+  },
+  "7": {
+    "prompt": "Which conclusion is best supported?",
+    "options": [
+      "The pulse proves anger.",
+      "The pulse proves excitement.",
+      "Activation changed; the emotion needs context and report."
+    ],
+    "correct": 2,
+    "feedback": [
+      "Anger is not uniquely identified by pulse.",
+      "Excitement is also only one possible account.",
+      "The measured component does not determine the complete emotional state."
+    ],
+    "context": "A person’s pulse rises during a challenging social task.",
+    "reasoningPrompt": "Explain your choice. Which evidence supports it, what alternative remains, and what would change your conclusion?",
+    "revision": "motivation-and-emotion-v1"
+  },
+  "8": {
+    "prompt": "What should come first?",
+    "options": [
+      "Reinterpret the unsafe condition as positive.",
+      "Address safety and seek appropriate support.",
+      "Suppress concern to keep the interaction smooth."
+    ],
+    "correct": 1,
+    "feedback": [
+      "Positive reinterpretation does not remove an actual hazard.",
+      "Safety and practical conditions take priority over changing the emotional story.",
+      "Hiding concern may leave the harmful condition in place."
+    ],
+    "context": "A person feels distressed in a genuinely unsafe situation.",
+    "reasoningPrompt": "Explain your choice. Which evidence supports it, what alternative remains, and what would change your conclusion?",
+    "revision": "motivation-and-emotion-v1"
+  },
+  "9": {
+    "prompt": "What would improve the support?",
+    "options": [
+      "Check what the person wants before acting.",
+      "Assume resonance guarantees understanding.",
+      "Apply the same emotional response to every culture."
+    ],
+    "correct": 0,
+    "feedback": [
+      "A direct check can correct an empathic but mistaken inference.",
+      "Sharing a feeling and accurately understanding a need are different.",
+      "Cultural and individual contexts shape interpretation."
+    ],
+    "context": "A friend feels strongly moved by someone’s distress and assumes they know which help is wanted.",
+    "reasoningPrompt": "Explain your choice. Which evidence supports it, what alternative remains, and what would change your conclusion?",
+    "revision": "motivation-and-emotion-v1"
+  },
+  "10": {
+    "prompt": "Which report is proportionate?",
+    "options": [
+      "The method permanently transformed everyone.",
+      "Mood improved immediately; durability and specific causes remain uncertain.",
+      "Temporary change proves there was no experience at all."
+    ],
+    "correct": 1,
+    "feedback": [
+      "There is no evidence for that scope or duration.",
+      "The conclusion matches the measured outcome and design.",
+      "A causal limit does not invalidate the reported experience."
+    ],
+    "context": "Participants report improved mood after one session; there is no control group or follow-up.",
+    "reasoningPrompt": "Explain your choice. Which evidence supports it, what alternative remains, and what would change your conclusion?",
+    "revision": "motivation-and-emotion-v1"
+  }
+}

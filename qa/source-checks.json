@@ -1,0 +1,92 @@
+{
+  "method": "HTTP availability checks of linked open references; DOI identity checked against Crossref. Availability is not independent academic review.",
+  "open_references": [
+    {
+      "url": "https://openstax.org/books/psychology-2e/pages/10-1-motivation",
+      "status": 200,
+      "final": "https://openstax.org/books/psychology-2e/pages/10-1-motivation",
+      "title": "10.1 Motivation - Psychology 2e | OpenStax"
+    },
+    {
+      "url": "https://openstax.org/books/psychology-2e/pages/10-2-hunger-and-eating",
+      "status": 200,
+      "final": "https://openstax.org/books/psychology-2e/pages/10-2-hunger-and-eating",
+      "title": "10.2 Hunger and Eating - Psychology 2e | OpenStax"
+    },
+    {
+      "url": "https://openstax.org/books/psychology-2e/pages/10-4-emotion",
+      "status": 200,
+      "final": "https://openstax.org/books/psychology-2e/pages/10-4-emotion",
+      "title": "10.4 Emotion - Psychology 2e | OpenStax"
+    },
+    {
+      "url": "https://openstax.org/books/psychology-2e/pages/14-5-the-pursuit-of-happiness",
+      "status": 200,
+      "final": "https://openstax.org/books/psychology-2e/pages/14-5-the-pursuit-of-happiness",
+      "title": "14.5 The Pursuit of Happiness - Psychology 2e | OpenStax"
+    },
+    {
+      "url": "https://openstax.org/books/psychology-2e/pages/15-4-anxiety-disorders",
+      "status": 200,
+      "final": "https://openstax.org/books/psychology-2e/pages/15-4-anxiety-disorders",
+      "title": "15.4 Anxiety Disorders - Psychology 2e | OpenStax"
+    }
+  ],
+  "doi_sources": [
+    {
+      "title": "Ryan, Deci (2000): Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being.",
+      "url": "https://doi.org/10.1037/0003-066X.55.1.68",
+      "kind": "Scholarly source; publisher access may vary."
+    },
+    {
+      "title": "Ryan, Deci (2000): Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being.",
+      "url": "https://doi.org/10.1037/0003-066X.55.1.68",
+      "kind": "Scholarly source; publisher access may vary."
+    },
+    {
+      "title": "Bandura (1977): Self-efficacy: Toward a unifying theory of behavioral change.",
+      "url": "https://doi.org/10.1037/0033-295X.84.2.191",
+      "kind": "Scholarly research or review; publisher access may vary."
+    },
+    {
+      "title": "Ryan, Deci (2000): Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being.",
+      "url": "https://doi.org/10.1037/0003-066X.55.1.68",
+      "kind": "Scholarly source; publisher access may vary."
+    },
+    {
+      "title": "Locke, Latham (2002): Building a practically useful theory of goal setting and task motivation: A 35-year odyssey.",
+      "url": "https://doi.org/10.1037/0003-066X.57.9.705",
+      "kind": "Scholarly source; publisher access may vary."
+    },
+    {
+      "title": "Gross (1998): The Emerging Field of Emotion Regulation: An Integrative Review",
+      "url": "https://doi.org/10.1037/1089-2680.2.3.271",
+      "kind": "Scholarly source; publisher access may vary."
+    },
+    {
+      "title": "Gross (1998): The Emerging Field of Emotion Regulation: An Integrative Review",
+      "url": "https://doi.org/10.1037/1089-2680.2.3.271",
+      "kind": "Scholarly source; publisher access may vary."
+    },
+    {
+      "title": "Ryan, Deci (2000): Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being.",
+      "url": "https://doi.org/10.1037/0003-066X.55.1.68",
+      "kind": "Scholarly source; publisher access may vary."
+    },
+    {
+      "title": "Tangney, Stuewig, Mashek (2007): Moral Emotions and Moral Behavior",
+      "url": "https://doi.org/10.1146/annurev.psych.56.091103.070145",
+      "kind": "Scholarly research or review; publisher access may vary."
+    },
+    {
+      "title": "Ryan, Deci (2000): Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being.",
+      "url": "https://doi.org/10.1037/0003-066X.55.1.68",
+      "kind": "Scholarly source; publisher access may vary."
+    },
+    {
+      "title": "Gross (1998): The Emerging Field of Emotion Regulation: An Integrative Review",
+      "url": "https://doi.org/10.1037/1089-2680.2.3.271",
+      "kind": "Scholarly source; publisher access may vary."
+    }
+  ]
+}

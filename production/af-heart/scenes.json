@@ -1,0 +1,962 @@
+[
+  {
+    "id": "c01s01",
+    "step": "Chapter 1: An action can have several motives",
+    "text": "Sam leaves a crowded planning meeting early. Leo calls it low motivation. Maya discovers that Sam has a caring commitment and has already completed the agreed task. The same action could fit several explanations.",
+    "say": "Sam leaves a crowded planning meeting early. Leo calls it low motivation. [Maya](/mˈaɪə/) discovers that Sam has a caring commitment and has already completed the agreed task. The same action could fit several explanations."
+  },
+  {
+    "id": "c01s02",
+    "step": "Chapter 1: Make a first decision",
+    "text": "First, make a prediction about the café story.\n\nWhat should replace the low-motivation label?\n\nA. A specific account of goals, constraints and the observed action.\n\nB. A stronger claim about Sam’s character.\n\nC. The assumption that early departure has one meaning.\n\nChoose an option before checking the feedback.",
+    "say": "First, make a prediction about the café story. [pause 0.65] What should replace the low-motivation label? [pause 0.65] A. A specific account of goals, constraints and the observed action. [pause 0.65] B. A stronger claim about Sam’s character. [pause 0.65] C. The assumption that early departure has one meaning. [pause 0.65] Choose an option before checking the feedback."
+  },
+  {
+    "id": "c01s02-feedback-0",
+    "step": "Chapter 1: feedback 1",
+    "text": "This generates questions that can distinguish plausible explanations.",
+    "say": "This generates questions that can distinguish plausible explanations."
+  },
+  {
+    "id": "c01s02-feedback-1",
+    "step": "Chapter 1: feedback 2",
+    "text": "A stronger label adds no causal evidence.",
+    "say": "A stronger label adds no causal evidence."
+  },
+  {
+    "id": "c01s02-feedback-2",
+    "step": "Chapter 1: feedback 3",
+    "text": "The same action can serve different goals.",
+    "say": "The same action can serve different goals."
+  },
+  {
+    "id": "c01s03",
+    "step": "Chapter 1: Motivation concerns direction and persistence.",
+    "text": "Goal: an outcome an action is directed toward.\n\nMotivation is not directly visible in one action. Leaving a meeting may reflect competing goals, limited resources or a task already completed.\n\nDescribe the behaviour first. Then ask which motives are plausible and what information would distinguish them. A strong explanation makes predictions rather than attaching a character label.",
+    "say": "Goal: an outcome an action is directed toward. [pause 0.65] Motivation is not directly visible in one action. Leaving a meeting may reflect competing goals, limited resources or a task already completed. [pause 0.65] Describe the behaviour first. Then ask which motives are plausible and what information would distinguish them. A strong explanation makes predictions rather than attaching a character label."
+  },
+  {
+    "id": "c01s03b",
+    "step": "Chapter 1: People manage competing demands.",
+    "text": "Opportunity cost: what is forgone by choosing an option. Constraint: condition limiting available action. Persistence: continuing an action over time.\n\nEffort on one goal can reduce time for another. The available options depend on schedules, health, access and responsibilities.\n\nLow participation in a particular setting does not imply a lack of valued goals. Ask what the person is trying to do and what the setting makes possible.",
+    "say": "Opportunity cost: what is forgone by choosing an option. Constraint: condition limiting available action. Persistence: continuing an action over time. [pause 0.65] Effort on one goal can reduce time for another. The available options depend on schedules, health, access and responsibilities. [pause 0.65] Low participation in a particular setting does not imply a lack of valued goals. Ask what the person is trying to do and what the setting makes possible."
+  },
+  {
+    "id": "c01s04",
+    "step": "Chapter 1: Use several forms of evidence.",
+    "text": "Self-report: a person’s account of their experience. Behavioural measure: recorded action under defined conditions. Causal inference: a claim about what produces an effect.\n\nA respectful conversation can clarify priorities, while behaviour over suitable opportunities can test a prediction. Neither is a complete mind-reading instrument.\n\nChanging access or instructions may alter participation without changing an underlying preference. Measure the intended outcome and consider alternatives.",
+    "say": "Self-report: a person’s account of their experience. Behavioural measure: recorded action under defined conditions. Causal inference: a claim about what produces an effect. [pause 0.65] A respectful conversation can clarify priorities, while behaviour over suitable opportunities can test a prediction. Neither is a complete mind-reading instrument. [pause 0.65] Changing access or instructions may alter participation without changing an underlying preference. Measure the intended outcome and consider alternatives."
+  },
+  {
+    "id": "c01s05",
+    "step": "Chapter 1: What does the evidence allow?",
+    "text": "Motivation research uses several theoretical frameworks and measures. Findings depend on tasks, populations and how effort or persistence is defined.\n\nA fictional story can clarify distinctions, but does not establish an individual’s true motive.",
+    "say": "Motivation research uses several theoretical frameworks and measures. Findings depend on tasks, populations and how effort or persistence is defined. [pause 0.65] A fictional story can clarify distinctions, but does not establish an individual’s true motive."
+  },
+  {
+    "id": "c01s06",
+    "step": "Chapter 1: Apply the distinction",
+    "text": "Apply the idea to this new fictional case.\n\nA volunteer attends when sessions fit caring responsibilities and misses sessions that conflict.\n\nWhat conclusion is proportionate?\n\nA. The person lacks all motivation.\n\nB. Scheduling is a plausible barrier to investigate.\n\nC. Attendance is unrelated to any motive.\n\nChoose an option and write your reasoning before checking the feedback.",
+    "say": "Apply the idea to this new fictional case. [pause 0.65] A volunteer attends when sessions fit caring responsibilities and misses sessions that conflict. [pause 0.65] What conclusion is proportionate? [pause 0.65] A. The person lacks all motivation. [pause 0.65] B. Scheduling is a plausible barrier to investigate. [pause 0.65] C. Attendance is unrelated to any motive. [pause 0.65] Choose an option and write your reasoning before checking the feedback. [pause 1.0]"
+  },
+  {
+    "id": "c01s06-feedback-0",
+    "step": "Chapter 1: feedback 1",
+    "text": "The observation concerns one constrained setting.",
+    "say": "The observation concerns one constrained setting. [pause 1.0]"
+  },
+  {
+    "id": "c01s06-feedback-1",
+    "step": "Chapter 1: feedback 2",
+    "text": "The changed opportunity gives a testable alternative explanation.",
+    "say": "The changed opportunity gives a testable alternative explanation. [pause 1.0]"
+  },
+  {
+    "id": "c01s06-feedback-2",
+    "step": "Chapter 1: feedback 3",
+    "text": "The limitation does not prove motivation never contributes.",
+    "say": "The limitation does not prove motivation never contributes. [pause 1.0]"
+  },
+  {
+    "id": "c01s07",
+    "step": "Chapter 1: Explain it without the notes",
+    "text": "Try these questions without your notes.\n\nWhy is motivation inferred rather than directly seen?\n\nHow can opportunity cost affect participation?\n\nReveal the suggested answers after trying.",
+    "say": "Try these questions without your notes. [pause 0.65] Why is motivation inferred rather than directly seen? [pause 0.65] How can opportunity cost affect participation? [pause 0.65] Reveal the suggested answers after trying. [pause 1.0]"
+  },
+  {
+    "id": "c01s07-answers",
+    "step": "Chapter 1: recall answers",
+    "text": "Actions can fit several goals and constraints, so explanation needs additional evidence.\n\nChoosing one action can prevent time or resources being used for another valued goal.",
+    "say": "Actions can fit several goals and constraints, so explanation needs additional evidence. [pause 0.65] Choosing one action can prevent time or resources being used for another valued goal. [pause 1.0]"
+  },
+  {
+    "id": "c01s08",
+    "step": "Chapter 1: Take the idea into everyday life",
+    "text": "Use a fictional early departure to write two motive hypotheses and a respectful question that would help distinguish them.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+    "say": "Use a fictional early departure to write two motive hypotheses and a respectful question that would help distinguish them. [pause 0.65] Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes."
+  },
+  {
+    "id": "c02s01",
+    "step": "Chapter 2: Needs and incentives interact",
+    "text": "After a long shift, Pat chooses food over another repair. Nearby food smells also catch Sam’s attention despite a recent meal. Leo wants one explanation that accounts for both choices.",
+    "say": "After a long shift, Pat chooses food over another repair. Nearby food smells also catch Sam’s attention despite a recent meal. Leo wants one explanation that accounts for both choices."
+  },
+  {
+    "id": "c02s02",
+    "step": "Chapter 2: Make a first decision",
+    "text": "First, make a prediction about the café story.\n\nWhich account fits the two observations best?\n\nA. All choices reflect an empty energy store.\n\nB. Only environmental smells matter.\n\nC. Bodily state and learned incentives can both contribute.\n\nChoose an option before checking the feedback.",
+    "say": "First, make a prediction about the café story. [pause 0.65] Which account fits the two observations best? [pause 0.65] A. All choices reflect an empty energy store. [pause 0.65] B. Only environmental smells matter. [pause 0.65] C. Bodily state and learned incentives can both contribute. [pause 0.65] Choose an option before checking the feedback."
+  },
+  {
+    "id": "c02s02-feedback-0",
+    "step": "Chapter 2: feedback 1",
+    "text": "That does not explain every cue-related choice.",
+    "say": "That does not explain every cue-related choice."
+  },
+  {
+    "id": "c02s02-feedback-1",
+    "step": "Chapter 2: feedback 2",
+    "text": "Bodily regulation remains relevant.",
+    "say": "Bodily regulation remains relevant."
+  },
+  {
+    "id": "c02s02-feedback-2",
+    "step": "Chapter 2: feedback 3",
+    "text": "The mechanisms can interact and require specific evidence.",
+    "say": "The mechanisms can interact and require specific evidence."
+  },
+  {
+    "id": "c02s03",
+    "step": "Chapter 2: Regulation can motivate action.",
+    "text": "Homeostasis: regulation maintaining conditions within functional ranges. Drive: motivational state associated with a biological need. Feedback: information influencing ongoing regulation.\n\nBodily systems regulate conditions such as energy and fluid balance through interacting signals. A physiological need can influence attention and action.\n\nHuman eating and other behaviours are not simple readings of one internal meter. Learning, availability, culture and health also contribute.",
+    "say": "Homeostasis: regulation maintaining conditions within functional ranges. Drive: motivational state associated with a biological need. Feedback: information influencing ongoing regulation. [pause 0.65] Bodily systems regulate conditions such as energy and fluid balance through interacting signals. A physiological need can influence attention and action. [pause 0.65] Human eating and other behaviours are not simple readings of one internal meter. Learning, availability, culture and health also contribute."
+  },
+  {
+    "id": "c02s03b",
+    "step": "Chapter 2: An incentive is a feature of the situation.",
+    "text": "Incentive: anticipated outcome that can attract or deter action. Reward learning: learning relations involving valued outcomes.\n\nA cue associated with a valued outcome can attract attention and action. Its influence depends on learning history and present circumstances.\n\nA smell can matter without proving a biological deficit. Conversely, an environmental cue does not mean bodily needs are irrelevant.",
+    "say": "Incentive: anticipated outcome that can attract or deter action. Reward learning: learning relations involving valued outcomes. [pause 0.65] A cue associated with a valued outcome can attract attention and action. Its influence depends on learning history and present circumstances. [pause 0.65] A smell can matter without proving a biological deficit. Conversely, an environmental cue does not mean bodily needs are irrelevant."
+  },
+  {
+    "id": "c02s04",
+    "step": "Chapter 2: Useful explanations include context.",
+    "text": "Satiety: processes reducing the tendency to continue eating. Individual variation: differences in responses and circumstances. Biopsychosocial account: biological, psychological and social contributions.\n\nAccess to food, work schedules and cultural practices affect choices. Individual physiology and medical conditions can matter too.\n\nUse the concepts to understand complexity rather than police another person’s eating. The course does not provide weight-control advice or assess disordered eating.",
+    "say": "Satiety: processes reducing the tendency to continue eating. Individual variation: differences in responses and circumstances. Biopsychosocial account: biological, psychological and social contributions. [pause 0.65] Access to food, work schedules and cultural practices affect choices. Individual physiology and medical conditions can matter too. [pause 0.65] Use the concepts to understand complexity rather than police another person’s eating. The course does not provide weight-control advice or assess disordered eating."
+  },
+  {
+    "id": "c02s05",
+    "step": "Chapter 2: What does the evidence allow?",
+    "text": "Drive and incentive accounts capture different influences. Laboratory manipulations isolate selected conditions and do not describe every real-world eating decision.\n\nPhysiological regulation, learned cues and social circumstances can all contribute; one observed choice cannot establish their relative weights.",
+    "say": "Drive and incentive accounts capture different influences. Laboratory manipulations isolate selected conditions and do not describe every real-world eating decision. [pause 0.65] Physiological regulation, learned cues and social circumstances can all contribute; one observed choice cannot establish their relative weights."
+  },
+  {
+    "id": "c02s06",
+    "step": "Chapter 2: Apply the distinction",
+    "text": "Apply the idea to this new fictional case.\n\nA café changes its opening hours and visitors’ meal choices shift.\n\nWhat is the most careful conclusion?\n\nA. Availability is one influence alongside other conditions.\n\nB. The change proves a permanent biological deficit.\n\nC. A single environmental change explains every food choice.\n\nChoose an option and write your reasoning before checking the feedback.",
+    "say": "Apply the idea to this new fictional case. [pause 0.65] A café changes its opening hours and visitors’ meal choices shift. [pause 0.65] What is the most careful conclusion? [pause 0.65] A. Availability is one influence alongside other conditions. [pause 0.65] B. The change proves a permanent biological deficit. [pause 0.65] C. A single environmental change explains every food choice. [pause 0.65] Choose an option and write your reasoning before checking the feedback. [pause 1.0]"
+  },
+  {
+    "id": "c02s06-feedback-0",
+    "step": "Chapter 2: feedback 1",
+    "text": "The observed setting supports a bounded contextual inference.",
+    "say": "The observed setting supports a bounded contextual inference. [pause 1.0]"
+  },
+  {
+    "id": "c02s06-feedback-1",
+    "step": "Chapter 2: feedback 2",
+    "text": "Availability does not diagnose an internal deficit.",
+    "say": "Availability does not diagnose an internal deficit. [pause 1.0]"
+  },
+  {
+    "id": "c02s06-feedback-2",
+    "step": "Chapter 2: feedback 3",
+    "text": "The result does not eliminate other influences.",
+    "say": "The result does not eliminate other influences. [pause 1.0]"
+  },
+  {
+    "id": "c02s07",
+    "step": "Chapter 2: Explain it without the notes",
+    "text": "Try these questions without your notes.\n\nHow does an incentive differ from a physiological need?\n\nWhy avoid a one-meter model of eating?\n\nReveal the suggested answers after trying.",
+    "say": "Try these questions without your notes. [pause 0.65] How does an incentive differ from a physiological need? [pause 0.65] Why avoid a one-meter model of eating? [pause 0.65] Reveal the suggested answers after trying. [pause 1.0]"
+  },
+  {
+    "id": "c02s07-answers",
+    "step": "Chapter 2: recall answers",
+    "text": "An incentive is an anticipated situational outcome; a physiological need concerns bodily regulation.\n\nEating reflects multiple bodily, learned and social influences.",
+    "say": "An incentive is an anticipated situational outcome; a physiological need concerns bodily regulation. [pause 0.65] Eating reflects multiple bodily, learned and social influences. [pause 1.0]"
+  },
+  {
+    "id": "c02s08",
+    "step": "Chapter 2: Take the idea into everyday life",
+    "text": "Use a fictional choice to identify a bodily influence, a learned cue and an access condition without judging the person.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+    "say": "Use a fictional choice to identify a bodily influence, a learned cue and an access condition without judging the person. [pause 0.65] Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes."
+  },
+  {
+    "id": "c03s01",
+    "step": "Chapter 3: Value and expectation shape effort",
+    "text": "Jo cares about explaining repairs but avoids a public demonstration after several confusing attempts. Leo says the avoidance proves Jo does not value the skill. Maya asks whether Jo expects the next attempt to work.",
+    "say": "Jo cares about explaining repairs but avoids a public demonstration after several confusing attempts. Leo says the avoidance proves Jo does not value the skill. [Maya](/mˈaɪə/) asks whether Jo expects the next attempt to work."
+  },
+  {
+    "id": "c03s02",
+    "step": "Chapter 3: Make a first decision",
+    "text": "First, make a prediction about the café story.\n\nWhat is the key distinction in Jo’s case?\n\nA. Valuing the skill differs from expecting success in this setting.\n\nB. Avoidance uniquely proves low value.\n\nC. Confidence guarantees the required skill.\n\nChoose an option before checking the feedback.",
+    "say": "First, make a prediction about the café story. [pause 0.65] What is the key distinction in Jo’s case? [pause 0.65] A. Valuing the skill differs from expecting success in this setting. [pause 0.65] B. Avoidance uniquely proves low value. [pause 0.65] C. Confidence guarantees the required skill. [pause 0.65] Choose an option before checking the feedback."
+  },
+  {
+    "id": "c03s02-feedback-0",
+    "step": "Chapter 3: feedback 1",
+    "text": "The route and its demands may be the problem despite a valued goal.",
+    "say": "The route and its demands may be the problem despite a valued goal."
+  },
+  {
+    "id": "c03s02-feedback-1",
+    "step": "Chapter 3: feedback 2",
+    "text": "Several beliefs and constraints can produce avoidance.",
+    "say": "Several beliefs and constraints can produce avoidance."
+  },
+  {
+    "id": "c03s02-feedback-2",
+    "step": "Chapter 3: feedback 3",
+    "text": "A belief and a measured capability are different.",
+    "say": "A belief and a measured capability are different."
+  },
+  {
+    "id": "c03s03",
+    "step": "Chapter 3: Wanting and expecting differ.",
+    "text": "Subjective value: importance or usefulness of an outcome. Cost: effort, time or other burden of pursuing an option.\n\nA person can value a goal while doubting a route to it. Effort can also depend on the costs and alternatives.\n\nJo’s avoidance could reflect low expectancy, public pressure or unclear instruction. Ask about the particular task rather than inferring a global lack of interest.",
+    "say": "Subjective value: importance or usefulness of an outcome. Cost: effort, time or other burden of pursuing an option. [pause 0.65] A person can value a goal while doubting a route to it. Effort can also depend on the costs and alternatives. [pause 0.65] Jo’s avoidance could reflect low expectancy, public pressure or unclear instruction. Ask about the particular task rather than inferring a global lack of interest."
+  },
+  {
+    "id": "c03s03b",
+    "step": "Chapter 3: Self-efficacy is task-specific.",
+    "text": "Self-efficacy: belief in capability to perform a specified action. Mastery experience: successful performance relevant to capability beliefs. Calibration: match between a judgment and suitable evidence.\n\nConfidence about one action need not extend to another. An achievable, informative practice attempt can provide evidence about what is possible.\n\nPraise alone may not clarify capability. Compare a prediction with actual performance, then identify the missing skill or support rather than demanding confidence.",
+    "say": "Self-efficacy: belief in capability to perform a specified action. Mastery experience: successful performance relevant to capability beliefs. Calibration: match between a judgment and suitable evidence. [pause 0.65] Confidence about one action need not extend to another. An achievable, informative practice attempt can provide evidence about what is possible. [pause 0.65] Praise alone may not clarify capability. Compare a prediction with actual performance, then identify the missing skill or support rather than demanding confidence."
+  },
+  {
+    "id": "c03s04",
+    "step": "Chapter 3: Changing the route can change the choice.",
+    "text": "Attribution: an explanation for an outcome. Controllability: whether a factor can be influenced. Task support: assistance addressing a relevant demand.\n\nAn outcome may be explained by task design, strategy, preparation or access as well as ability. Some conditions can be changed by the person, others need external support.\n\nOffer a clearer example or a lower-pressure rehearsal, then check what changes. Avoid replacing every structural barrier with an attitude lesson.",
+    "say": "Attribution: an explanation for an outcome. Controllability: whether a factor can be influenced. Task support: assistance addressing a relevant demand. [pause 0.65] An outcome may be explained by task design, strategy, preparation or access as well as ability. Some conditions can be changed by the person, others need external support. [pause 0.65] Offer a clearer example or a lower-pressure rehearsal, then check what changes. Avoid replacing every structural barrier with an attitude lesson."
+  },
+  {
+    "id": "c03s05",
+    "step": "Chapter 3: What does the evidence allow?",
+    "text": "Expectancy-value frameworks explain choices using beliefs, values and costs, but measures and predictive relations vary across tasks and contexts.\n\nA plausible motivational explanation is not a diagnosis. Beliefs and opportunities can affect each other over time.",
+    "say": "Expectancy-value frameworks explain choices using beliefs, values and costs, but measures and predictive relations vary across tasks and contexts. [pause 0.65] A plausible motivational explanation is not a diagnosis. Beliefs and opportunities can affect each other over time."
+  },
+  {
+    "id": "c03s06",
+    "step": "Chapter 3: Apply the distinction",
+    "text": "Apply the idea to this new fictional case.\n\nA learner values a task but doubts that the available strategy will help.\n\nWhich support most directly tests the route?\n\nA. Repeat a vague encouragement to try harder.\n\nB. Offer a clear rehearsal and compare predicted with actual performance.\n\nC. Assume low confidence is permanent.\n\nChoose an option and write your reasoning before checking the feedback.",
+    "say": "Apply the idea to this new fictional case. [pause 0.65] A learner values a task but doubts that the available strategy will help. [pause 0.65] Which support most directly tests the route? [pause 0.65] A. Repeat a vague encouragement to try harder. [pause 0.65] B. Offer a clear rehearsal and compare predicted with actual performance. [pause 0.65] C. Assume low confidence is permanent. [pause 0.65] Choose an option and write your reasoning before checking the feedback. [pause 1.0]"
+  },
+  {
+    "id": "c03s06-feedback-0",
+    "step": "Chapter 3: feedback 1",
+    "text": "It does not identify the missing strategy or condition.",
+    "say": "It does not identify the missing strategy or condition. [pause 1.0]"
+  },
+  {
+    "id": "c03s06-feedback-1",
+    "step": "Chapter 3: feedback 2",
+    "text": "The attempt can provide specific evidence and reveal needed support.",
+    "say": "The attempt can provide specific evidence and reveal needed support. [pause 1.0]"
+  },
+  {
+    "id": "c03s06-feedback-2",
+    "step": "Chapter 3: feedback 3",
+    "text": "Capability beliefs can vary with experience and task.",
+    "say": "Capability beliefs can vary with experience and task. [pause 1.0]"
+  },
+  {
+    "id": "c03s07",
+    "step": "Chapter 3: Explain it without the notes",
+    "text": "Try these questions without your notes.\n\nHow can value be high while effort is low?\n\nWhy specify the action when discussing self-efficacy?\n\nReveal the suggested answers after trying.",
+    "say": "Try these questions without your notes. [pause 0.65] How can value be high while effort is low? [pause 0.65] Why specify the action when discussing self-efficacy? [pause 0.65] Reveal the suggested answers after trying. [pause 1.0]"
+  },
+  {
+    "id": "c03s07-answers",
+    "step": "Chapter 3: recall answers",
+    "text": "Low expectancy, high costs or competing constraints may reduce effort.\n\nBeliefs about capability vary across tasks and conditions.",
+    "say": "Low expectancy, high costs or competing constraints may reduce effort. [pause 0.65] Beliefs about capability vary across tasks and conditions. [pause 1.0]"
+  },
+  {
+    "id": "c03s08",
+    "step": "Chapter 3: Take the idea into everyday life",
+    "text": "For a harmless personal goal, separate value, expectancy, cost and one practical support. Test the route rather than your worth.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+    "say": "For a harmless personal goal, separate value, expectancy, cost and one practical support. Test the route rather than your worth. [pause 0.65] Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes."
+  },
+  {
+    "id": "c04s01",
+    "step": "Chapter 4: Autonomy is not doing everything alone",
+    "text": "The café lets volunteers choose roles but gives no instructions or feedback. Participation drops. Leo says autonomy has failed. Maya asks whether meaningful choice was supported by competence and connection.",
+    "say": "The café lets volunteers choose roles but gives no instructions or feedback. Participation drops. Leo says autonomy has failed. [Maya](/mˈaɪə/) asks whether meaningful choice was supported by competence and connection."
+  },
+  {
+    "id": "c04s02",
+    "step": "Chapter 4: Make a first decision",
+    "text": "First, make a prediction about the café story.\n\nWhat should the café add?\n\nA. Clear guidance and respectful connection alongside meaningful choice.\n\nB. Remove every expectation and safety boundary.\n\nC. Assume volunteers must work entirely alone.\n\nChoose an option before checking the feedback.",
+    "say": "First, make a prediction about the café story. [pause 0.65] What should the café add? [pause 0.65] A. Clear guidance and respectful connection alongside meaningful choice. [pause 0.65] B. Remove every expectation and safety boundary. [pause 0.65] C. Assume volunteers must work entirely alone. [pause 0.65] Choose an option before checking the feedback."
+  },
+  {
+    "id": "c04s02-feedback-0",
+    "step": "Chapter 4: feedback 1",
+    "text": "Choice is more usable when competence and relationships are supported.",
+    "say": "Choice is more usable when competence and relationships are supported."
+  },
+  {
+    "id": "c04s02-feedback-1",
+    "step": "Chapter 4: feedback 2",
+    "text": "Lack of structure can make a task harder without adding volition.",
+    "say": "Lack of structure can make a task harder without adding volition."
+  },
+  {
+    "id": "c04s02-feedback-2",
+    "step": "Chapter 4: feedback 3",
+    "text": "Autonomy does not require isolation.",
+    "say": "Autonomy does not require isolation."
+  },
+  {
+    "id": "c04s03",
+    "step": "Chapter 4: Self-determination theory names three needs.",
+    "text": "Relatedness: experience of connection and belonging.\n\nSelf-determination theory examines how social conditions support motivation and wellbeing. Autonomy concerns acting with a sense of volition, not necessarily acting alone.\n\nA person can freely choose cooperation and guidance. Competence support and respectful relationships can matter alongside choice.",
+    "say": "Relatedness: experience of connection and belonging. [pause 0.65] Self-determination theory examines how social conditions support motivation and wellbeing. Autonomy concerns acting with a sense of volition, not necessarily acting alone. [pause 0.65] A person can freely choose cooperation and guidance. Competence support and respectful relationships can matter alongside choice."
+  },
+  {
+    "id": "c04s03b",
+    "step": "Chapter 4: Structure can support autonomy.",
+    "text": "Autonomy support: acknowledging perspective and meaningful choice. Structure: clear expectations, guidance and feedback. Control: pressure to act in a prescribed way.\n\nExplain the purpose of a task, offer real options where possible and provide clear guidance. A safety boundary can coexist with meaningful participation.\n\nA choice between two unusable options is not much support. Nor does vague freedom necessarily provide the resources needed to succeed.",
+    "say": "Autonomy support: acknowledging perspective and meaningful choice. Structure: clear expectations, guidance and feedback. Control: pressure to act in a prescribed way. [pause 0.65] Explain the purpose of a task, offer real options where possible and provide clear guidance. A safety boundary can coexist with meaningful participation. [pause 0.65] A choice between two unusable options is not much support. Nor does vague freedom necessarily provide the resources needed to succeed."
+  },
+  {
+    "id": "c04s04",
+    "step": "Chapter 4: Motivation varies in its regulation.",
+    "text": "Intrinsic motivation: acting for interest in the activity. Extrinsic motivation: acting for a separable outcome. Internalization: taking in and endorsing a value or regulation.\n\nExtrinsic motives vary: a person may act under pressure or because they endorse the purpose. Intrinsic enjoyment is not required for every worthwhile task.\n\nReward effects depend on form, expectation and context. Avoid the blanket claim that every reward destroys motivation or that every incentive helps.",
+    "say": "Intrinsic motivation: acting for interest in the activity. Extrinsic motivation: acting for a separable outcome. Internalization: taking in and endorsing a value or regulation. [pause 0.65] Extrinsic motives vary: a person may act under pressure or because they endorse the purpose. Intrinsic enjoyment is not required for every worthwhile task. [pause 0.65] Reward effects depend on form, expectation and context. Avoid the blanket claim that every reward destroys motivation or that every incentive helps."
+  },
+  {
+    "id": "c04s05",
+    "step": "Chapter 4: What does the evidence allow?",
+    "text": "Self-determination theory has a substantial research literature, with findings depending on measures, context and study design. Its constructs are theoretical tools, not a personality test.\n\nReward effects are conditional. An observational association between support and engagement does not isolate causation by itself.",
+    "say": "Self-determination theory has a substantial research literature, with findings depending on measures, context and study design. Its constructs are theoretical tools, not a personality test. [pause 0.65] Reward effects are conditional. An observational association between support and engagement does not isolate causation by itself."
+  },
+  {
+    "id": "c04s06",
+    "step": "Chapter 4: Apply the distinction",
+    "text": "Apply the idea to this new fictional case.\n\nA volunteer dislikes data entry but freely values its role in keeping the café accessible.\n\nWhich description fits best?\n\nA. Only pressure can motivate necessary tasks.\n\nB. Endorsed extrinsic motivation can support the action.\n\nC. The person must enjoy every minute intrinsically.\n\nChoose an option and write your reasoning before checking the feedback.",
+    "say": "Apply the idea to this new fictional case. [pause 0.65] A volunteer dislikes data entry but freely values its role in keeping the café accessible. [pause 0.65] Which description fits best? [pause 0.65] A. Only pressure can motivate necessary tasks. [pause 0.65] B. Endorsed extrinsic motivation can support the action. [pause 0.65] C. The person must enjoy every minute intrinsically. [pause 0.65] Choose an option and write your reasoning before checking the feedback. [pause 1.0]"
+  },
+  {
+    "id": "c04s06-feedback-0",
+    "step": "Chapter 4: feedback 1",
+    "text": "A person can willingly endorse a purpose.",
+    "say": "A person can willingly endorse a purpose. [pause 1.0]"
+  },
+  {
+    "id": "c04s06-feedback-1",
+    "step": "Chapter 4: feedback 2",
+    "text": "The separate outcome is personally valued even when the activity is not enjoyable.",
+    "say": "The separate outcome is personally valued even when the activity is not enjoyable. [pause 1.0]"
+  },
+  {
+    "id": "c04s06-feedback-2",
+    "step": "Chapter 4: feedback 3",
+    "text": "Intrinsic enjoyment is not the only meaningful reason to act.",
+    "say": "Intrinsic enjoyment is not the only meaningful reason to act. [pause 1.0]"
+  },
+  {
+    "id": "c04s07",
+    "step": "Chapter 4: Explain it without the notes",
+    "text": "Try these questions without your notes.\n\nWhy is autonomy different from independence?\n\nWhy are reward effects not one universal rule?\n\nReveal the suggested answers after trying.",
+    "say": "Try these questions without your notes. [pause 0.65] Why is autonomy different from independence? [pause 0.65] Why are reward effects not one universal rule? [pause 0.65] Reveal the suggested answers after trying. [pause 1.0]"
+  },
+  {
+    "id": "c04s07-answers",
+    "step": "Chapter 4: recall answers",
+    "text": "Autonomy concerns willing action; a person can willingly rely on others.\n\nEffects depend on meaning, form, expectation, task and context.",
+    "say": "Autonomy concerns willing action; a person can willingly rely on others. [pause 0.65] Effects depend on meaning, form, expectation, task and context. [pause 1.0]"
+  },
+  {
+    "id": "c04s08",
+    "step": "Chapter 4: Take the idea into everyday life",
+    "text": "Evaluate a fictional task using meaningful choice, workable guidance and respectful connection. Identify one improvement.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+    "say": "Evaluate a fictional task using meaningful choice, workable guidance and respectful connection. Identify one improvement. [pause 0.65] Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes."
+  },
+  {
+    "id": "c05s01",
+    "step": "Chapter 5: Goals need feedback and room to revise",
+    "text": "The café sets a target to double repairs per hour. Volunteers rush and miss faults. Leo celebrates the count. Maya asks whether the target still represents safe, useful repairs.",
+    "say": "The café sets a target to double repairs per hour. Volunteers rush and miss faults. Leo celebrates the count. [Maya](/mˈaɪə/) asks whether the target still represents safe, useful repairs."
+  },
+  {
+    "id": "c05s02",
+    "step": "Chapter 5: Make a first decision",
+    "text": "First, make a prediction about the café story.\n\nWhat is the problem with the repair target?\n\nA. A count automatically measures safe effectiveness.\n\nB. It may reward speed while sacrificing the intended outcome.\n\nC. Any specific goal is harmful.\n\nChoose an option before checking the feedback.",
+    "say": "First, make a prediction about the café story. [pause 0.65] What is the problem with the repair target? [pause 0.65] A. A count automatically measures safe effectiveness. [pause 0.65] B. It may reward speed while sacrificing the intended outcome. [pause 0.65] C. Any specific goal is harmful. [pause 0.65] Choose an option before checking the feedback."
+  },
+  {
+    "id": "c05s02-feedback-0",
+    "step": "Chapter 5: feedback 1",
+    "text": "Quality and safety were not captured by the count alone.",
+    "say": "Quality and safety were not captured by the count alone."
+  },
+  {
+    "id": "c05s02-feedback-1",
+    "step": "Chapter 5: feedback 2",
+    "text": "The proxy can improve while the real goal worsens.",
+    "say": "The proxy can improve while the real goal worsens."
+  },
+  {
+    "id": "c05s02-feedback-2",
+    "step": "Chapter 5: feedback 3",
+    "text": "Specificity can help when the target and conditions are appropriate.",
+    "say": "Specificity can help when the target and conditions are appropriate."
+  },
+  {
+    "id": "c05s03",
+    "step": "Chapter 5: A target directs attention.",
+    "text": "Goal specificity: how clearly a desired outcome is defined. Goal difficulty: the demand relative to current capability. Feedback: information about progress or performance.\n\nSpecific, challenging goals can focus effort when commitment, knowledge and resources support them. They can also narrow attention to the counted outcome.\n\nFor unfamiliar complex tasks, a learning goal may help more than a demanding output quota. Clarify the skill and safe standard before increasing pressure.",
+    "say": "Goal specificity: how clearly a desired outcome is defined. Goal difficulty: the demand relative to current capability. Feedback: information about progress or performance. [pause 0.65] Specific, challenging goals can focus effort when commitment, knowledge and resources support them. They can also narrow attention to the counted outcome. [pause 0.65] For unfamiliar complex tasks, a learning goal may help more than a demanding output quota. Clarify the skill and safe standard before increasing pressure."
+  },
+  {
+    "id": "c05s03b",
+    "step": "Chapter 5: A process plan connects cue and action.",
+    "text": "Implementation intention: if-then plan linking a situation and action. Monitoring: checking progress against a suitable standard.\n\nA process goal might require checking the fault list before closing a repair. An if-then plan specifies when the step should occur.\n\nA plan must remain usable under real constraints. Check accuracy and burden rather than treating adherence to the plan as the only outcome.",
+    "say": "Implementation intention: if-then plan linking a situation and action. Monitoring: checking progress against a suitable standard. [pause 0.65] A process goal might require checking the fault list before closing a repair. An if-then plan specifies when the step should occur. [pause 0.65] A plan must remain usable under real constraints. Check accuracy and burden rather than treating adherence to the plan as the only outcome."
+  },
+  {
+    "id": "c05s04",
+    "step": "Chapter 5: Revision can be intelligent regulation.",
+    "text": "Goal disengagement: reducing commitment to an unattainable or unsuitable goal. Re-engagement: committing to another meaningful goal. Proxy: a measure standing in for an intended outcome.\n\nPersistence is useful only relative to a worthwhile, feasible goal. Evidence of harm, changed conditions or unattainability can justify revision.\n\nA higher repair count with more faults may be a worse outcome. Review accuracy, safety and participant experience alongside speed.",
+    "say": "Goal disengagement: reducing commitment to an unattainable or unsuitable goal. Re-engagement: committing to another meaningful goal. Proxy: a measure standing in for an intended outcome. [pause 0.65] Persistence is useful only relative to a worthwhile, feasible goal. Evidence of harm, changed conditions or unattainability can justify revision. [pause 0.65] A higher repair count with more faults may be a worse outcome. Review accuracy, safety and participant experience alongside speed."
+  },
+  {
+    "id": "c05s05",
+    "step": "Chapter 5: What does the evidence allow?",
+    "text": "Goal-setting effects depend on task knowledge, feedback, resources and the way goals are framed. A useful average effect does not justify every quota.\n\nOutput measures can create unintended trade-offs. A complete evaluation includes quality and unwanted effects.",
+    "say": "Goal-setting effects depend on task knowledge, feedback, resources and the way goals are framed. A useful average effect does not justify every quota. [pause 0.65] Output measures can create unintended trade-offs. A complete evaluation includes quality and unwanted effects."
+  },
+  {
+    "id": "c05s06",
+    "step": "Chapter 5: Apply the distinction",
+    "text": "Apply the idea to this new fictional case.\n\nNew volunteers are learning an unfamiliar diagnostic procedure.\n\nWhich plan best fits a new complex skill?\n\nA. A learning goal with clear feedback and a safety standard.\n\nB. A harder quota without instruction.\n\nC. Persistence regardless of repeated harmful errors.\n\nChoose an option and write your reasoning before checking the feedback.",
+    "say": "Apply the idea to this new fictional case. [pause 0.65] New volunteers are learning an unfamiliar diagnostic procedure. [pause 0.65] Which plan best fits a new complex skill? [pause 0.65] A. A learning goal with clear feedback and a safety standard. [pause 0.65] B. A harder quota without instruction. [pause 0.65] C. Persistence regardless of repeated harmful errors. [pause 0.65] Choose an option and write your reasoning before checking the feedback. [pause 1.0]"
+  },
+  {
+    "id": "c05s06-feedback-0",
+    "step": "Chapter 5: feedback 1",
+    "text": "The plan develops the relevant strategy and evaluates quality.",
+    "say": "The plan develops the relevant strategy and evaluates quality. [pause 1.0]"
+  },
+  {
+    "id": "c05s06-feedback-1",
+    "step": "Chapter 5: feedback 2",
+    "text": "Pressure does not substitute for missing skill or access.",
+    "say": "Pressure does not substitute for missing skill or access. [pause 1.0]"
+  },
+  {
+    "id": "c05s06-feedback-2",
+    "step": "Chapter 5: feedback 3",
+    "text": "Goals should be revised when their pursuit causes harm.",
+    "say": "Goals should be revised when their pursuit causes harm. [pause 1.0]"
+  },
+  {
+    "id": "c05s07",
+    "step": "Chapter 5: Explain it without the notes",
+    "text": "Try these questions without your notes.\n\nWhy is a proxy not the whole goal?\n\nWhen can disengagement be appropriate?\n\nReveal the suggested answers after trying.",
+    "say": "Try these questions without your notes. [pause 0.65] Why is a proxy not the whole goal? [pause 0.65] When can disengagement be appropriate? [pause 0.65] Reveal the suggested answers after trying. [pause 1.0]"
+  },
+  {
+    "id": "c05s07-answers",
+    "step": "Chapter 5: recall answers",
+    "text": "A count may miss quality, harms or the meaningful outcome it represents.\n\nWhen a goal is unsuitable, unattainable or harmful under the actual conditions.",
+    "say": "A count may miss quality, harms or the meaningful outcome it represents. [pause 0.65] When a goal is unsuitable, unattainable or harmful under the actual conditions. [pause 1.0]"
+  },
+  {
+    "id": "c05s08",
+    "step": "Chapter 5: Take the idea into everyday life",
+    "text": "Choose a harmless personal learning goal. Define a process, a meaningful outcome and evidence that would make you revise the plan.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+    "say": "Choose a harmless personal learning goal. Define a process, a meaningful outcome and evidence that would make you revise the plan. [pause 0.65] Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes."
+  },
+  {
+    "id": "c06s01",
+    "step": "Chapter 6: Approach and avoidance can coexist",
+    "text": "Jo wants to present a repair idea but worries about public criticism. Sam wants a lively meeting and also a quiet place to concentrate. Leo insists each person must have one true preference.",
+    "say": "Jo wants to present a repair idea but worries about public criticism. Sam wants a lively meeting and also a quiet place to concentrate. Leo insists each person must have one true preference."
+  },
+  {
+    "id": "c06s02",
+    "step": "Chapter 6: Make a first decision",
+    "text": "First, make a prediction about the café story.\n\nWhat best explains Jo’s mixed response?\n\nA. A valued goal and anticipated social cost can coexist.\n\nB. Only one motive can be genuine.\n\nC. Reluctance proves an anxiety diagnosis.\n\nChoose an option before checking the feedback.",
+    "say": "First, make a prediction about the café story. [pause 0.65] What best explains Jo’s mixed response? [pause 0.65] A. A valued goal and anticipated social cost can coexist. [pause 0.65] B. Only one motive can be genuine. [pause 0.65] C. Reluctance proves an anxiety diagnosis. [pause 0.65] Choose an option before checking the feedback."
+  },
+  {
+    "id": "c06s02-feedback-0",
+    "step": "Chapter 6: feedback 1",
+    "text": "Approach and avoidance can be active together.",
+    "say": "Approach and avoidance can be active together."
+  },
+  {
+    "id": "c06s02-feedback-1",
+    "step": "Chapter 6: feedback 2",
+    "text": "Real choices often involve competing outcomes.",
+    "say": "Real choices often involve competing outcomes."
+  },
+  {
+    "id": "c06s02-feedback-2",
+    "step": "Chapter 6: feedback 3",
+    "text": "The observation is insufficient for diagnosis.",
+    "say": "The observation is insufficient for diagnosis."
+  },
+  {
+    "id": "c06s03",
+    "step": "Chapter 6: The same option can attract and deter.",
+    "text": "Approach motivation: movement toward a desired outcome. Avoidance motivation: movement away from an undesired outcome. Approach–avoidance conflict: one option has attractive and aversive aspects.\n\nA presentation can offer contribution and learning while carrying social risk. Conflicting motives are not necessarily inconsistency or dishonesty.\n\nSpecify the desired and undesired outcomes. A person may need a different route to the valued goal rather than stronger pressure to choose.",
+    "say": "Approach motivation: movement toward a desired outcome. Avoidance motivation: movement away from an undesired outcome. Approach–avoidance conflict: one option has attractive and aversive aspects. [pause 0.65] A presentation can offer contribution and learning while carrying social risk. Conflicting motives are not necessarily inconsistency or dishonesty. [pause 0.65] Specify the desired and undesired outcomes. A person may need a different route to the valued goal rather than stronger pressure to choose."
+  },
+  {
+    "id": "c06s03b",
+    "step": "Chapter 6: Avoidance has a function and a cost.",
+    "text": "Avoidance learning: learning actions that prevent an aversive outcome. Negative reinforcement: removal or prevention increasing an action. Short-term relief: immediate reduction in discomfort.\n\nAvoidance can protect from real danger. In some contexts, immediate relief can also maintain avoidance that limits valued activity.\n\nThe function depends on whether the threat is real, the available alternatives and the person’s circumstances. A course exercise should not ask someone to confront danger or treat anxiety without professional support.",
+    "say": "Avoidance learning: learning actions that prevent an aversive outcome. Negative reinforcement: removal or prevention increasing an action. Short-term relief: immediate reduction in discomfort. [pause 0.65] Avoidance can protect from real danger. In some contexts, immediate relief can also maintain avoidance that limits valued activity. [pause 0.65] The function depends on whether the threat is real, the available alternatives and the person’s circumstances. A course exercise should not ask someone to confront danger or treat anxiety without professional support."
+  },
+  {
+    "id": "c06s04",
+    "step": "Chapter 6: Change the choice architecture respectfully.",
+    "text": "Ambivalence: mixed evaluations of an option. Opportunity: a feasible route to action. Agency: capacity for meaningful participation and choice.\n\nA small-group discussion may allow Jo to contribute without the same public demand. The team can preserve genuine options and ask what support is useful.\n\nDo not treat every reluctance as a symptom. Evaluate access, safety and preference before interpreting the motivational pattern.",
+    "say": "Ambivalence: mixed evaluations of an option. Opportunity: a feasible route to action. Agency: capacity for meaningful participation and choice. [pause 0.65] A small-group discussion may allow Jo to contribute without the same public demand. The team can preserve genuine options and ask what support is useful. [pause 0.65] Do not treat every reluctance as a symptom. Evaluate access, safety and preference before interpreting the motivational pattern."
+  },
+  {
+    "id": "c06s05",
+    "step": "Chapter 6: What does the evidence allow?",
+    "text": "Approach and avoidance frameworks describe motivational relations whose value depends on context. Immediate relief does not by itself establish a disorder or a maladaptive pattern.\n\nClinical assessment is needed for persistent distress or impairment; the course is conceptual education.",
+    "say": "Approach and avoidance frameworks describe motivational relations whose value depends on context. Immediate relief does not by itself establish a disorder or a maladaptive pattern. [pause 0.65] Clinical assessment is needed for persistent distress or impairment; the course is conceptual education."
+  },
+  {
+    "id": "c06s06",
+    "step": "Chapter 6: Apply the distinction",
+    "text": "Apply the idea to this new fictional case.\n\nA volunteer wants to contribute but declines a particular public format.\n\nWhich response is most appropriate?\n\nA. Force the public presentation to remove avoidance.\n\nB. Ask about the concern and offer a workable way to contribute.\n\nC. Assume every avoidance action is harmful.\n\nChoose an option and write your reasoning before checking the feedback.",
+    "say": "Apply the idea to this new fictional case. [pause 0.65] A volunteer wants to contribute but declines a particular public format. [pause 0.65] Which response is most appropriate? [pause 0.65] A. Force the public presentation to remove avoidance. [pause 0.65] B. Ask about the concern and offer a workable way to contribute. [pause 0.65] C. Assume every avoidance action is harmful. [pause 0.65] Choose an option and write your reasoning before checking the feedback. [pause 1.0]"
+  },
+  {
+    "id": "c06s06-feedback-0",
+    "step": "Chapter 6: feedback 1",
+    "text": "Coercion ignores safety, preference and clinical boundaries.",
+    "say": "Coercion ignores safety, preference and clinical boundaries. [pause 1.0]"
+  },
+  {
+    "id": "c06s06-feedback-1",
+    "step": "Chapter 6: feedback 2",
+    "text": "The response examines the function and preserves meaningful choice.",
+    "say": "The response examines the function and preserves meaningful choice. [pause 1.0]"
+  },
+  {
+    "id": "c06s06-feedback-2",
+    "step": "Chapter 6: feedback 3",
+    "text": "Avoidance can protect against real costs or danger.",
+    "say": "Avoidance can protect against real costs or danger. [pause 1.0]"
+  },
+  {
+    "id": "c06s07",
+    "step": "Chapter 6: Explain it without the notes",
+    "text": "Try these questions without your notes.\n\nWhy can approach and avoidance coexist?\n\nWhy is immediate relief insufficient to judge an action?\n\nReveal the suggested answers after trying.",
+    "say": "Try these questions without your notes. [pause 0.65] Why can approach and avoidance coexist? [pause 0.65] Why is immediate relief insufficient to judge an action? [pause 0.65] Reveal the suggested answers after trying. [pause 1.0]"
+  },
+  {
+    "id": "c06s07-answers",
+    "step": "Chapter 6: recall answers",
+    "text": "The same option can have both valued and undesired consequences.\n\nThe real threat, alternatives and later costs also matter.",
+    "say": "The same option can have both valued and undesired consequences. [pause 0.65] The real threat, alternatives and later costs also matter. [pause 1.0]"
+  },
+  {
+    "id": "c06s08",
+    "step": "Chapter 6: Take the idea into everyday life",
+    "text": "Use a fictional ambivalent decision to name both outcomes and propose one respectful alternative route.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+    "say": "Use a fictional ambivalent decision to name both outcomes and propose one respectful alternative route. [pause 0.65] Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes."
+  },
+  {
+    "id": "c07s01",
+    "step": "Chapter 7: An emotion has several components",
+    "text": "Sam smiles while nervous before a talk. Leo says the smile proves happiness. Sam describes anticipation and uncertainty. Maya asks which components of emotion the team can observe or ask about.",
+    "say": "Sam smiles while nervous before a talk. Leo says the smile proves happiness. Sam describes anticipation and uncertainty. [Maya](/mˈaɪə/) asks which components of emotion the team can observe or ask about."
+  },
+  {
+    "id": "c07s02",
+    "step": "Chapter 7: Make a first decision",
+    "text": "First, make a prediction about the café story.\n\nWhat does Sam’s smile establish most directly?\n\nA. Sam is definitely happy.\n\nB. An expression occurred whose meaning needs context.\n\nC. Sam cannot also feel nervous.\n\nChoose an option before checking the feedback.",
+    "say": "First, make a prediction about the café story. [pause 0.65] What does Sam’s smile establish most directly? [pause 0.65] A. Sam is definitely happy. [pause 0.65] B. An expression occurred whose meaning needs context. [pause 0.65] C. Sam cannot also feel nervous. [pause 0.65] Choose an option before checking the feedback."
+  },
+  {
+    "id": "c07s02-feedback-0",
+    "step": "Chapter 7: feedback 1",
+    "text": "The same expression can serve several functions.",
+    "say": "The same expression can serve several functions."
+  },
+  {
+    "id": "c07s02-feedback-1",
+    "step": "Chapter 7: feedback 2",
+    "text": "Expression and experience are distinct observations.",
+    "say": "Expression and experience are distinct observations."
+  },
+  {
+    "id": "c07s02-feedback-2",
+    "step": "Chapter 7: feedback 3",
+    "text": "Mixed feelings and social expressions can coexist.",
+    "say": "Mixed feelings and social expressions can coexist."
+  },
+  {
+    "id": "c07s03",
+    "step": "Chapter 7: Feeling and expression are different measures.",
+    "text": "Subjective feeling: the experienced quality of an emotional state. Expression: observable movement or communication associated with emotion.\n\nEmotion can involve bodily changes, action tendencies, appraisals, expressions and subjective experience. The components need not align perfectly.\n\nA smile can communicate reassurance, politeness or amusement. Ask what the person reports instead of treating a facial cue as a complete emotional reading.",
+    "say": "Subjective feeling: the experienced quality of an emotional state. Expression: observable movement or communication associated with emotion. [pause 0.65] Emotion can involve bodily changes, action tendencies, appraisals, expressions and subjective experience. The components need not align perfectly. [pause 0.65] A smile can communicate reassurance, politeness or amusement. Ask what the person reports instead of treating a facial cue as a complete emotional reading."
+  },
+  {
+    "id": "c07s03b",
+    "step": "Chapter 7: Theories explain relationships differently.",
+    "text": "James–Lange account: feeling involves perception of bodily changes. Cannon–Bard account: experience and bodily response occur in parallel. Two-factor account: arousal and contextual interpretation contribute to emotion.\n\nClassic theories differ on the role and ordering of bodily response and experience. Contemporary approaches examine more complex interactions and multiple timescales.\n\nUse the theories as testable explanations, not as three complete recipes that settle every emotion. The café story alone cannot distinguish their predictions.",
+    "say": "James–Lange account: feeling involves perception of bodily changes. Cannon–Bard account: experience and bodily response occur in parallel. Two-factor account: arousal and contextual interpretation contribute to emotion. [pause 0.65] Classic theories differ on the role and ordering of bodily response and experience. Contemporary approaches examine more complex interactions and multiple timescales. [pause 0.65] Use the theories as testable explanations, not as three complete recipes that settle every emotion. The café story alone cannot distinguish their predictions."
+  },
+  {
+    "id": "c07s04",
+    "step": "Chapter 7: Appraisal links events with concerns.",
+    "text": "Appraisal: evaluation of significance for goals and wellbeing.\n\nAn event can feel different depending on its meaning for the person. Being watched may mean welcome recognition or threat of criticism.\n\nValence and arousal describe dimensions without explaining the whole cause. Emotional vocabulary should clarify a report rather than override the person’s account.",
+    "say": "Appraisal: evaluation of significance for goals and wellbeing. [pause 0.65] An event can feel different depending on its meaning for the person. Being watched may mean welcome recognition or threat of criticism. [pause 0.65] Valence and arousal describe dimensions without explaining the whole cause. Emotional vocabulary should clarify a report rather than override the person’s account."
+  },
+  {
+    "id": "c07s05",
+    "step": "Chapter 7: What does the evidence allow?",
+    "text": "Emotion theories differ in constructs and predictions, and there is no universal one-to-one map between a facial movement, brain region or physiological signal and every emotion.\n\nMeasures should be interpreted together with context, individual report and their own limitations.",
+    "say": "Emotion theories differ in constructs and predictions, and there is no universal one-to-one map between a facial movement, brain region or physiological signal and every emotion. [pause 0.65] Measures should be interpreted together with context, individual report and their own limitations."
+  },
+  {
+    "id": "c07s06",
+    "step": "Chapter 7: Apply the distinction",
+    "text": "Apply the idea to this new fictional case.\n\nA person’s pulse rises during a challenging social task.\n\nWhich conclusion is best supported?\n\nA. The pulse proves anger.\n\nB. The pulse proves excitement.\n\nC. Activation changed; the emotion needs context and report.\n\nChoose an option and write your reasoning before checking the feedback.",
+    "say": "Apply the idea to this new fictional case. [pause 0.65] A person’s pulse rises during a challenging social task. [pause 0.65] Which conclusion is best supported? [pause 0.65] A. The pulse proves anger. [pause 0.65] B. The pulse proves excitement. [pause 0.65] C. Activation changed; the emotion needs context and report. [pause 0.65] Choose an option and write your reasoning before checking the feedback. [pause 1.0]"
+  },
+  {
+    "id": "c07s06-feedback-0",
+    "step": "Chapter 7: feedback 1",
+    "text": "Anger is not uniquely identified by pulse.",
+    "say": "Anger is not uniquely identified by pulse. [pause 1.0]"
+  },
+  {
+    "id": "c07s06-feedback-1",
+    "step": "Chapter 7: feedback 2",
+    "text": "Excitement is also only one possible account.",
+    "say": "Excitement is also only one possible account. [pause 1.0]"
+  },
+  {
+    "id": "c07s06-feedback-2",
+    "step": "Chapter 7: feedback 3",
+    "text": "The measured component does not determine the complete emotional state.",
+    "say": "The measured component does not determine the complete emotional state. [pause 1.0]"
+  },
+  {
+    "id": "c07s07",
+    "step": "Chapter 7: Explain it without the notes",
+    "text": "Try these questions without your notes.\n\nWhy distinguish expression from subjective feeling?\n\nWhat question does appraisal add?\n\nReveal the suggested answers after trying.",
+    "say": "Try these questions without your notes. [pause 0.65] Why distinguish expression from subjective feeling? [pause 0.65] What question does appraisal add? [pause 0.65] Reveal the suggested answers after trying. [pause 1.0]"
+  },
+  {
+    "id": "c07s07-answers",
+    "step": "Chapter 7: recall answers",
+    "text": "Expressions can communicate several things and need not perfectly match experience.\n\nIt asks what the event means for the person’s goals, concerns and wellbeing.",
+    "say": "Expressions can communicate several things and need not perfectly match experience. [pause 0.65] It asks what the event means for the person’s goals, concerns and wellbeing. [pause 1.0]"
+  },
+  {
+    "id": "c07s08",
+    "step": "Chapter 7: Take the idea into everyday life",
+    "text": "Use a fictional scene to describe expression, possible appraisal and a respectful question. Leave the actual feeling open.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+    "say": "Use a fictional scene to describe expression, possible appraisal and a respectful question. Leave the actual feeling open. [pause 0.65] Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes."
+  },
+  {
+    "id": "c08s01",
+    "step": "Chapter 8: Regulation is choosing a response to a context",
+    "text": "Before a difficult meeting, Jo changes the room layout, asks what criticism might mean and plans a pause. Leo says regulation means hiding all visible feeling. Maya asks which parts of the situation can be changed.",
+    "say": "Before a difficult meeting, Jo changes the room layout, asks what criticism might mean and plans a pause. Leo says regulation means hiding all visible feeling. [Maya](/mˈaɪə/) asks which parts of the situation can be changed."
+  },
+  {
+    "id": "c08s02",
+    "step": "Chapter 8: Make a first decision",
+    "text": "First, make a prediction about the café story.\n\nWhich account best fits Jo’s plan?\n\nA. Regulation includes changes to situations and interpretations.\n\nB. Regulation means never showing emotion.\n\nC. Every uncomfortable feeling should be eliminated.\n\nChoose an option before checking the feedback.",
+    "say": "First, make a prediction about the café story. [pause 0.65] Which account best fits Jo’s plan? [pause 0.65] A. Regulation includes changes to situations and interpretations. [pause 0.65] B. Regulation means never showing emotion. [pause 0.65] C. Every uncomfortable feeling should be eliminated. [pause 0.65] Choose an option before checking the feedback."
+  },
+  {
+    "id": "c08s02-feedback-0",
+    "step": "Chapter 8: feedback 1",
+    "text": "Different points of action can influence how emotions unfold.",
+    "say": "Different points of action can influence how emotions unfold."
+  },
+  {
+    "id": "c08s02-feedback-1",
+    "step": "Chapter 8: feedback 2",
+    "text": "Expression is only one component of regulation.",
+    "say": "Expression is only one component of regulation."
+  },
+  {
+    "id": "c08s02-feedback-2",
+    "step": "Chapter 8: feedback 3",
+    "text": "Discomfort can carry useful information and cannot always be eliminated.",
+    "say": "Discomfort can carry useful information and cannot always be eliminated."
+  },
+  {
+    "id": "c08s03",
+    "step": "Chapter 8: Regulation can occur at several points.",
+    "text": "Emotion regulation: processes influencing which emotions occur and how they unfold. Situation selection: choosing which situations to enter. Situation modification: changing relevant features of a situation.\n\nRegulation can involve changing a situation, directing attention, changing interpretation or altering a response. It need not mean suppressing every feeling.\n\nA quieter room may reduce an avoidable demand. Leaving an unsafe setting may be more appropriate than reinterpreting it positively.",
+    "say": "Emotion regulation: processes influencing which emotions occur and how they unfold. Situation selection: choosing which situations to enter. Situation modification: changing relevant features of a situation. [pause 0.65] Regulation can involve changing a situation, directing attention, changing interpretation or altering a response. It need not mean suppressing every feeling. [pause 0.65] A quieter room may reduce an avoidable demand. Leaving an unsafe setting may be more appropriate than reinterpreting it positively."
+  },
+  {
+    "id": "c08s03b",
+    "step": "Chapter 8: Reappraisal and suppression do different work.",
+    "text": "Cognitive reappraisal: changing an interpretation to alter an emotional response. Expressive suppression: inhibiting outward emotional expression. Regulatory flexibility: adjusting strategies to goals and conditions.\n\nReappraisal may change the meaning of an ambiguous event. Suppression changes visible expression without necessarily resolving the feeling or situation.\n\nNeither strategy is universally good or bad. Safety, culture, goals and timing affect usefulness. Forced positivity can obscure a real problem that needs action.",
+    "say": "Cognitive reappraisal: changing an interpretation to alter an emotional response. Expressive suppression: inhibiting outward emotional expression. Regulatory flexibility: adjusting strategies to goals and conditions. [pause 0.65] Reappraisal may change the meaning of an ambiguous event. Suppression changes visible expression without necessarily resolving the feeling or situation. [pause 0.65] Neither strategy is universally good or bad. Safety, culture, goals and timing affect usefulness. Forced positivity can obscure a real problem that needs action."
+  },
+  {
+    "id": "c08s04",
+    "step": "Chapter 8: Evaluate outcomes, not strategy slogans.",
+    "text": "Problem solving: acting on a changeable source of difficulty. Regulation goal: the intended outcome of a strategy.\n\nSometimes a practical change is possible; sometimes allowing a feeling while choosing an action is more useful. Acceptance does not require tolerating abuse or abandoning appropriate care.\n\nDefine the goal and check effects on functioning and relationships. Persistent distress warrants professional support rather than escalating self-directed exercises.",
+    "say": "Problem solving: acting on a changeable source of difficulty. Regulation goal: the intended outcome of a strategy. [pause 0.65] Sometimes a practical change is possible; sometimes allowing a feeling while choosing an action is more useful. Acceptance does not require tolerating abuse or abandoning appropriate care. [pause 0.65] Define the goal and check effects on functioning and relationships. Persistent distress warrants professional support rather than escalating self-directed exercises."
+  },
+  {
+    "id": "c08s05",
+    "step": "Chapter 8: What does the evidence allow?",
+    "text": "Emotion-regulation findings depend on strategy, context, culture and outcome. Associations with wellbeing do not imply that one strategy is best for every person.\n\nThis course introduces concepts, not individualized psychological treatment. Do not use regulation language to dismiss another person’s concern.",
+    "say": "Emotion-regulation findings depend on strategy, context, culture and outcome. Associations with wellbeing do not imply that one strategy is best for every person. [pause 0.65] This course introduces concepts, not individualized psychological treatment. Do not use regulation language to dismiss another person’s concern."
+  },
+  {
+    "id": "c08s06",
+    "step": "Chapter 8: Apply the distinction",
+    "text": "Apply the idea to this new fictional case.\n\nA person feels distressed in a genuinely unsafe situation.\n\nWhat should come first?\n\nA. Reinterpret the unsafe condition as positive.\n\nB. Address safety and seek appropriate support.\n\nC. Suppress concern to keep the interaction smooth.\n\nChoose an option and write your reasoning before checking the feedback.",
+    "say": "Apply the idea to this new fictional case. [pause 0.65] A person feels distressed in a genuinely unsafe situation. [pause 0.65] What should come first? [pause 0.65] A. Reinterpret the unsafe condition as positive. [pause 0.65] B. Address safety and seek appropriate support. [pause 0.65] C. Suppress concern to keep the interaction smooth. [pause 0.65] Choose an option and write your reasoning before checking the feedback. [pause 1.0]"
+  },
+  {
+    "id": "c08s06-feedback-0",
+    "step": "Chapter 8: feedback 1",
+    "text": "Positive reinterpretation does not remove an actual hazard.",
+    "say": "Positive reinterpretation does not remove an actual hazard. [pause 1.0]"
+  },
+  {
+    "id": "c08s06-feedback-1",
+    "step": "Chapter 8: feedback 2",
+    "text": "Safety and practical conditions take priority over changing the emotional story.",
+    "say": "Safety and practical conditions take priority over changing the emotional story. [pause 1.0]"
+  },
+  {
+    "id": "c08s06-feedback-2",
+    "step": "Chapter 8: feedback 3",
+    "text": "Hiding concern may leave the harmful condition in place.",
+    "say": "Hiding concern may leave the harmful condition in place. [pause 1.0]"
+  },
+  {
+    "id": "c08s07",
+    "step": "Chapter 8: Explain it without the notes",
+    "text": "Try these questions without your notes.\n\nHow does reappraisal differ from suppression?\n\nWhy does a regulation strategy need context?\n\nReveal the suggested answers after trying.",
+    "say": "Try these questions without your notes. [pause 0.65] How does reappraisal differ from suppression? [pause 0.65] Why does a regulation strategy need context? [pause 0.65] Reveal the suggested answers after trying. [pause 1.0]"
+  },
+  {
+    "id": "c08s07-answers",
+    "step": "Chapter 8: recall answers",
+    "text": "Reappraisal changes meaning; suppression inhibits expression.\n\nSafety, controllability, goals and culture affect its consequences.",
+    "say": "Reappraisal changes meaning; suppression inhibits expression. [pause 0.65] Safety, controllability, goals and culture affect its consequences. [pause 1.0]"
+  },
+  {
+    "id": "c08s08",
+    "step": "Chapter 8: Take the idea into everyday life",
+    "text": "For a fictional low-stakes disagreement, compare a situation change and a reinterpretation. State which facts would make each appropriate.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+    "say": "For a fictional low-stakes disagreement, compare a situation change and a reinterpretation. State which facts would make each appropriate. [pause 0.65] Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes."
+  },
+  {
+    "id": "c09s01",
+    "step": "Chapter 9: Feelings are also social information",
+    "text": "After a repair error, Sam apologizes and offers a correction. Jo becomes quiet after public criticism. Leo says everyone should show regret in the same visible way. Maya asks how relationships and norms shape expression.",
+    "say": "After a repair error, Sam apologizes and offers a correction. Jo becomes quiet after public criticism. Leo says everyone should show regret in the same visible way. [Maya](/mˈaɪə/) asks how relationships and norms shape expression."
+  },
+  {
+    "id": "c09s02",
+    "step": "Chapter 9: Make a first decision",
+    "text": "First, make a prediction about the café story.\n\nWhat is the best response to different expressions of regret?\n\nA. Use one visible display as the universal standard.\n\nB. Ask about meaning and assess the actual corrective action.\n\nC. Assume quietness proves a lack of concern.\n\nChoose an option before checking the feedback.",
+    "say": "First, make a prediction about the café story. [pause 0.65] What is the best response to different expressions of regret? [pause 0.65] A. Use one visible display as the universal standard. [pause 0.65] B. Ask about meaning and assess the actual corrective action. [pause 0.65] C. Assume quietness proves a lack of concern. [pause 0.65] Choose an option before checking the feedback."
+  },
+  {
+    "id": "c09s02-feedback-0",
+    "step": "Chapter 9: feedback 1",
+    "text": "Expression norms and individual responses vary.",
+    "say": "Expression norms and individual responses vary."
+  },
+  {
+    "id": "c09s02-feedback-1",
+    "step": "Chapter 9: feedback 2",
+    "text": "This checks interpretation and meaningful behaviour rather than a display stereotype.",
+    "say": "This checks interpretation and meaningful behaviour rather than a display stereotype."
+  },
+  {
+    "id": "c09s02-feedback-2",
+    "step": "Chapter 9: feedback 3",
+    "text": "Quietness has several plausible meanings.",
+    "say": "Quietness has several plausible meanings."
+  },
+  {
+    "id": "c09s03",
+    "step": "Chapter 9: Social emotions concern relationships and standards.",
+    "text": "Guilt: negative evaluation of a particular action. Shame: negative evaluation focused more broadly on the self. Pride: positive evaluation linked to valued achievement or identity.\n\nThe distinction between evaluating an action and condemning the whole self can clarify a response to mistakes. Experiences vary and the words do not map perfectly across languages.\n\nAn apology can support repair, but visible regret is not a unique measure of responsibility. Look at the response, context and subsequent action.",
+    "say": "Guilt: negative evaluation of a particular action. Shame: negative evaluation focused more broadly on the self. Pride: positive evaluation linked to valued achievement or identity. [pause 0.65] The distinction between evaluating an action and condemning the whole self can clarify a response to mistakes. Experiences vary and the words do not map perfectly across languages. [pause 0.65] An apology can support repair, but visible regret is not a unique measure of responsibility. Look at the response, context and subsequent action."
+  },
+  {
+    "id": "c09s03b",
+    "step": "Chapter 9: Expression follows social conditions.",
+    "text": "Display rule: social expectation about emotional expression. Cultural context: shared practices and meanings in a setting. Emotion norm: expectation about appropriate feeling or response.\n\nPeople learn expectations about when and how to express feelings. These vary within as well as across cultural groups.\n\nQuietness may reflect respect, discomfort or concentration. Ask rather than using nationality, gender or a single expression as an emotional explanation.",
+    "say": "Display rule: social expectation about emotional expression. Cultural context: shared practices and meanings in a setting. Emotion norm: expectation about appropriate feeling or response. [pause 0.65] People learn expectations about when and how to express feelings. These vary within as well as across cultural groups. [pause 0.65] Quietness may reflect respect, discomfort or concentration. Ask rather than using nationality, gender or a single expression as an emotional explanation."
+  },
+  {
+    "id": "c09s04",
+    "step": "Chapter 9: Empathy does not guarantee accuracy.",
+    "text": "Affective empathy: sharing or resonating with another’s feeling. Perspective taking: considering another’s viewpoint. Compassion: concern for another’s difficulty and wish to help.\n\nFeeling with someone, understanding their viewpoint and wanting to help are distinct processes. Strong emotional resonance can still misread what support is wanted.\n\nCheck your interpretation and offer a concrete choice. A respectful question can be more accurate than confidence that you already know the feeling.",
+    "say": "Affective empathy: sharing or resonating with another’s feeling. Perspective taking: considering another’s viewpoint. Compassion: concern for another’s difficulty and wish to help. [pause 0.65] Feeling with someone, understanding their viewpoint and wanting to help are distinct processes. Strong emotional resonance can still misread what support is wanted. [pause 0.65] Check your interpretation and offer a concrete choice. A respectful question can be more accurate than confidence that you already know the feeling."
+  },
+  {
+    "id": "c09s05",
+    "step": "Chapter 9: What does the evidence allow?",
+    "text": "Emotion research examines social norms, appraisals and relationships using varied measures. Broad cultural averages are not fixed rules for each group member.\n\nNo expression, word or apology uniquely establishes a person’s moral character or emotional history.",
+    "say": "Emotion research examines social norms, appraisals and relationships using varied measures. Broad cultural averages are not fixed rules for each group member. [pause 0.65] No expression, word or apology uniquely establishes a person’s moral character or emotional history."
+  },
+  {
+    "id": "c09s06",
+    "step": "Chapter 9: Apply the distinction",
+    "text": "Apply the idea to this new fictional case.\n\nA friend feels strongly moved by someone’s distress and assumes they know which help is wanted.\n\nWhat would improve the support?\n\nA. Check what the person wants before acting.\n\nB. Assume resonance guarantees understanding.\n\nC. Apply the same emotional response to every culture.\n\nChoose an option and write your reasoning before checking the feedback.",
+    "say": "Apply the idea to this new fictional case. [pause 0.65] A friend feels strongly moved by someone’s distress and assumes they know which help is wanted. [pause 0.65] What would improve the support? [pause 0.65] A. Check what the person wants before acting. [pause 0.65] B. Assume resonance guarantees understanding. [pause 0.65] C. Apply the same emotional response to every culture. [pause 0.65] Choose an option and write your reasoning before checking the feedback. [pause 1.0]"
+  },
+  {
+    "id": "c09s06-feedback-0",
+    "step": "Chapter 9: feedback 1",
+    "text": "A direct check can correct an empathic but mistaken inference.",
+    "say": "A direct check can correct an empathic but mistaken inference. [pause 1.0]"
+  },
+  {
+    "id": "c09s06-feedback-1",
+    "step": "Chapter 9: feedback 2",
+    "text": "Sharing a feeling and accurately understanding a need are different.",
+    "say": "Sharing a feeling and accurately understanding a need are different. [pause 1.0]"
+  },
+  {
+    "id": "c09s06-feedback-2",
+    "step": "Chapter 9: feedback 3",
+    "text": "Cultural and individual contexts shape interpretation.",
+    "say": "Cultural and individual contexts shape interpretation. [pause 1.0]"
+  },
+  {
+    "id": "c09s07",
+    "step": "Chapter 9: Explain it without the notes",
+    "text": "Try these questions without your notes.\n\nHow does guilt differ conceptually from shame?\n\nWhy is empathy not identical to perspective taking?\n\nReveal the suggested answers after trying.",
+    "say": "Try these questions without your notes. [pause 0.65] How does guilt differ conceptually from shame? [pause 0.65] Why is empathy not identical to perspective taking? [pause 0.65] Reveal the suggested answers after trying. [pause 1.0]"
+  },
+  {
+    "id": "c09s07-answers",
+    "step": "Chapter 9: recall answers",
+    "text": "Guilt focuses more on an action; shame focuses more broadly on the self.\n\nSharing emotion and understanding another viewpoint are different processes.",
+    "say": "Guilt focuses more on an action; shame focuses more broadly on the self. [pause 0.65] Sharing emotion and understanding another viewpoint are different processes. [pause 1.0]"
+  },
+  {
+    "id": "c09s08",
+    "step": "Chapter 9: Take the idea into everyday life",
+    "text": "Use a fictional apology scene to distinguish observed words, inferred emotion and a meaningful repair action.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+    "say": "Use a fictional apology scene to distinguish observed words, inferred emotion and a meaningful repair action. [pause 0.65] Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes."
+  },
+  {
+    "id": "c10s01",
+    "step": "Chapter 10: A useful change needs more than enthusiasm",
+    "text": "The café considers a workshop promising permanent motivation and happiness. Testimonials are enthusiastic, but there is no comparison group or later follow-up. The team wants to preserve useful ideas without endorsing the promise.",
+    "say": "The café considers a workshop promising permanent motivation and happiness. Testimonials are enthusiastic, but there is no comparison group or later follow-up. The team wants to preserve useful ideas without endorsing the promise."
+  },
+  {
+    "id": "c10s02",
+    "step": "Chapter 10: Make a first decision",
+    "text": "First, make a prediction about the café story.\n\nWhat is missing from the workshop promise?\n\nA. A relevant comparison and evidence of lasting meaningful benefit.\n\nB. More dramatic testimonials.\n\nC. A universal rule requiring positive feelings.\n\nChoose an option before checking the feedback.",
+    "say": "First, make a prediction about the café story. [pause 0.65] What is missing from the workshop promise? [pause 0.65] A. A relevant comparison and evidence of lasting meaningful benefit. [pause 0.65] B. More dramatic testimonials. [pause 0.65] C. A universal rule requiring positive feelings. [pause 0.65] Choose an option before checking the feedback."
+  },
+  {
+    "id": "c10s02-feedback-0",
+    "step": "Chapter 10: feedback 1",
+    "text": "The practical claim extends beyond immediate enthusiastic reactions.",
+    "say": "The practical claim extends beyond immediate enthusiastic reactions."
+  },
+  {
+    "id": "c10s02-feedback-1",
+    "step": "Chapter 10: feedback 2",
+    "text": "More selected anecdotes do not resolve causal alternatives.",
+    "say": "More selected anecdotes do not resolve causal alternatives."
+  },
+  {
+    "id": "c10s02-feedback-2",
+    "step": "Chapter 10: feedback 3",
+    "text": "Emotional life includes useful and understandable unpleasant feelings.",
+    "say": "Emotional life includes useful and understandable unpleasant feelings."
+  },
+  {
+    "id": "c10s03",
+    "step": "Chapter 10: Wellbeing has several meanings.",
+    "text": "Subjective wellbeing: evaluations and experiences of life quality. Positive affect: pleasant emotional experience.\n\nFeeling good, functioning well and finding meaning are related but distinct outcomes. A useful activity need not feel pleasant at every moment.\n\nAsk what the workshop promises to improve and how it measures that outcome. A temporary mood change is not proof of durable wellbeing.",
+    "say": "Subjective wellbeing: evaluations and experiences of life quality. Positive affect: pleasant emotional experience. [pause 0.65] Feeling good, functioning well and finding meaning are related but distinct outcomes. A useful activity need not feel pleasant at every moment. [pause 0.65] Ask what the workshop promises to improve and how it measures that outcome. A temporary mood change is not proof of durable wellbeing."
+  },
+  {
+    "id": "c10s03b",
+    "step": "Chapter 10: A testimonial leaves alternatives open.",
+    "text": "Comparison group: a reference condition for evaluating change. Expectancy effect: influence of anticipated benefit.\n\nParticipants may improve because of attention, social contact, expectations or other changes. A credible comparison and suitable follow-up help evaluate the particular method.\n\nInclude unwanted effects and who was not helped. A technique should earn support for a defined use rather than claim universal transformation.",
+    "say": "Comparison group: a reference condition for evaluating change. Expectancy effect: influence of anticipated benefit. [pause 0.65] Participants may improve because of attention, social contact, expectations or other changes. A credible comparison and suitable follow-up help evaluate the particular method. [pause 0.65] Include unwanted effects and who was not helped. A technique should earn support for a defined use rather than claim universal transformation."
+  },
+  {
+    "id": "c10s04",
+    "step": "Chapter 10: Make a modest, revisable recommendation.",
+    "text": "Agency: meaningful choice in an action. Proportionate claim: conclusion matching the strength of evidence. Professional support: qualified care matched to relevant needs.\n\nUse clear goals, accessible routes and respectful relationships. For a harmless self-chosen routine, test a manageable change and review the outcome.\n\nDo not treat serious distress as a motivation failure. Professional help may be appropriate, and a course is not treatment or a requirement to be happy.",
+    "say": "Agency: meaningful choice in an action. Proportionate claim: conclusion matching the strength of evidence. Professional support: qualified care matched to relevant needs. [pause 0.65] Use clear goals, accessible routes and respectful relationships. For a harmless self-chosen routine, test a manageable change and review the outcome. [pause 0.65] Do not treat serious distress as a motivation failure. Professional help may be appropriate, and a course is not treatment or a requirement to be happy."
+  },
+  {
+    "id": "c10s05",
+    "step": "Chapter 10: What does the evidence allow?",
+    "text": "Motivation and emotion research provides concepts and conditional findings, not a universal formula for happiness. Product claims require their own evaluation.\n\nCourse visits, confidence and enthusiasm do not certify mastery or prove a wellbeing benefit.",
+    "say": "Motivation and emotion research provides concepts and conditional findings, not a universal formula for happiness. Product claims require their own evaluation. [pause 0.65] Course visits, confidence and enthusiasm do not certify mastery or prove a wellbeing benefit."
+  },
+  {
+    "id": "c10s06",
+    "step": "Chapter 10: Apply the distinction",
+    "text": "Apply the idea to this new fictional case.\n\nParticipants report improved mood after one session; there is no control group or follow-up.\n\nWhich report is proportionate?\n\nA. The method permanently transformed everyone.\n\nB. Mood improved immediately; durability and specific causes remain uncertain.\n\nC. Temporary change proves there was no experience at all.\n\nChoose an option and write your reasoning before checking the feedback.",
+    "say": "Apply the idea to this new fictional case. [pause 0.65] Participants report improved mood after one session; there is no control group or follow-up. [pause 0.65] Which report is proportionate? [pause 0.65] A. The method permanently transformed everyone. [pause 0.65] B. Mood improved immediately; durability and specific causes remain uncertain. [pause 0.65] C. Temporary change proves there was no experience at all. [pause 0.65] Choose an option and write your reasoning before checking the feedback. [pause 1.0]"
+  },
+  {
+    "id": "c10s06-feedback-0",
+    "step": "Chapter 10: feedback 1",
+    "text": "There is no evidence for that scope or duration.",
+    "say": "There is no evidence for that scope or duration. [pause 1.0]"
+  },
+  {
+    "id": "c10s06-feedback-1",
+    "step": "Chapter 10: feedback 2",
+    "text": "The conclusion matches the measured outcome and design.",
+    "say": "The conclusion matches the measured outcome and design. [pause 1.0]"
+  },
+  {
+    "id": "c10s06-feedback-2",
+    "step": "Chapter 10: feedback 3",
+    "text": "A causal limit does not invalidate the reported experience.",
+    "say": "A causal limit does not invalidate the reported experience. [pause 1.0]"
+  },
+  {
+    "id": "c10s07",
+    "step": "Chapter 10: Explain it without the notes",
+    "text": "Try these questions without your notes.\n\nWhy distinguish immediate mood from wellbeing?\n\nWhat should a modest intervention evaluation include?\n\nReveal the suggested answers after trying.",
+    "say": "Try these questions without your notes. [pause 0.65] Why distinguish immediate mood from wellbeing? [pause 0.65] What should a modest intervention evaluation include? [pause 0.65] Reveal the suggested answers after trying. [pause 1.0]"
+  },
+  {
+    "id": "c10s07-answers",
+    "step": "Chapter 10: recall answers",
+    "text": "They concern different constructs and timescales.\n\nA defined meaningful outcome, relevant comparison, follow-up, unwanted effects and participant choice.",
+    "say": "They concern different constructs and timescales. [pause 0.65] A defined meaningful outcome, relevant comparison, follow-up, unwanted effects and participant choice. [pause 1.0]"
+  },
+  {
+    "id": "c10s08",
+    "step": "Chapter 10: Take the idea into everyday life",
+    "text": "Write a balanced review of a fictional wellbeing workshop: useful idea, actual evidence, missing comparison and a bounded conclusion.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+    "say": "Write a balanced review of a fictional wellbeing workshop: useful idea, actual evidence, missing comparison and a bounded conclusion. [pause 0.65] Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes."
+  }
+]

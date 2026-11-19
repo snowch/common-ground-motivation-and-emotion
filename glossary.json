@@ -1,0 +1,112 @@
+{
+  "1": {
+    "Motivation": "Processes influencing initiation, direction and persistence of action.",
+    "Goal": "An outcome an action is directed toward.",
+    "Behaviour": "An observable action.",
+    "Opportunity cost": "What is forgone by choosing an option.",
+    "Constraint": "Condition limiting available action.",
+    "Persistence": "Continuing an action over time.",
+    "Self-report": "A person’s account of their experience.",
+    "Behavioural measure": "Recorded action under defined conditions.",
+    "Causal inference": "A claim about what produces an effect."
+  },
+  "2": {
+    "Homeostasis": "Regulation maintaining conditions within functional ranges.",
+    "Drive": "Motivational state associated with a biological need.",
+    "Feedback": "Information influencing ongoing regulation.",
+    "Incentive": "Anticipated outcome that can attract or deter action.",
+    "Cue": "Information associated with an outcome.",
+    "Reward learning": "Learning relations involving valued outcomes.",
+    "Satiety": "Processes reducing the tendency to continue eating.",
+    "Individual variation": "Differences in responses and circumstances.",
+    "Biopsychosocial account": "Biological, psychological and social contributions."
+  },
+  "3": {
+    "Expectancy": "Belief about likelihood of success.",
+    "Subjective value": "Importance or usefulness of an outcome.",
+    "Cost": "Effort, time or other burden of pursuing an option.",
+    "Self-efficacy": "Belief in capability to perform a specified action.",
+    "Mastery experience": "Successful performance relevant to capability beliefs.",
+    "Calibration": "Match between a judgment and suitable evidence.",
+    "Attribution": "An explanation for an outcome.",
+    "Controllability": "Whether a factor can be influenced.",
+    "Task support": "Assistance addressing a relevant demand."
+  },
+  "4": {
+    "Autonomy": "Experience of meaningful volition.",
+    "Competence": "Experience of effectiveness in activity.",
+    "Relatedness": "Experience of connection and belonging.",
+    "Autonomy support": "Acknowledging perspective and meaningful choice.",
+    "Structure": "Clear expectations, guidance and feedback.",
+    "Control": "Pressure to act in a prescribed way.",
+    "Intrinsic motivation": "Acting for interest in the activity.",
+    "Extrinsic motivation": "Acting for a separable outcome.",
+    "Internalization": "Taking in and endorsing a value or regulation."
+  },
+  "5": {
+    "Goal specificity": "How clearly a desired outcome is defined.",
+    "Goal difficulty": "The demand relative to current capability.",
+    "Feedback": "Information about progress or performance.",
+    "Process goal": "Target concerning how to perform an activity.",
+    "Implementation intention": "If-then plan linking a situation and action.",
+    "Monitoring": "Checking progress against a suitable standard.",
+    "Goal disengagement": "Reducing commitment to an unattainable or unsuitable goal.",
+    "Re-engagement": "Committing to another meaningful goal.",
+    "Proxy": "A measure standing in for an intended outcome."
+  },
+  "6": {
+    "Approach motivation": "Movement toward a desired outcome.",
+    "Avoidance motivation": "Movement away from an undesired outcome.",
+    "Approach–avoidance conflict": "One option has attractive and aversive aspects.",
+    "Avoidance learning": "Learning actions that prevent an aversive outcome.",
+    "Negative reinforcement": "Removal or prevention increasing an action.",
+    "Short-term relief": "Immediate reduction in discomfort.",
+    "Ambivalence": "Mixed evaluations of an option.",
+    "Opportunity": "A feasible route to action.",
+    "Agency": "Capacity for meaningful participation and choice."
+  },
+  "7": {
+    "Emotion": "A coordinated pattern involving experience, appraisal and response.",
+    "Subjective feeling": "The experienced quality of an emotional state.",
+    "Expression": "Observable movement or communication associated with emotion.",
+    "James–Lange account": "Feeling involves perception of bodily changes.",
+    "Cannon–Bard account": "Experience and bodily response occur in parallel.",
+    "Two-factor account": "Arousal and contextual interpretation contribute to emotion.",
+    "Appraisal": "Evaluation of significance for goals and wellbeing.",
+    "Valence": "Pleasantness or unpleasantness of experience.",
+    "Arousal": "Level of physiological or subjective activation."
+  },
+  "8": {
+    "Emotion regulation": "Processes influencing which emotions occur and how they unfold.",
+    "Situation selection": "Choosing which situations to enter.",
+    "Situation modification": "Changing relevant features of a situation.",
+    "Cognitive reappraisal": "Changing an interpretation to alter an emotional response.",
+    "Expressive suppression": "Inhibiting outward emotional expression.",
+    "Regulatory flexibility": "Adjusting strategies to goals and conditions.",
+    "Acceptance": "Allowing an experience without necessarily endorsing its cause.",
+    "Problem solving": "Acting on a changeable source of difficulty.",
+    "Regulation goal": "The intended outcome of a strategy."
+  },
+  "9": {
+    "Guilt": "Negative evaluation of a particular action.",
+    "Shame": "Negative evaluation focused more broadly on the self.",
+    "Pride": "Positive evaluation linked to valued achievement or identity.",
+    "Display rule": "Social expectation about emotional expression.",
+    "Cultural context": "Shared practices and meanings in a setting.",
+    "Emotion norm": "Expectation about appropriate feeling or response.",
+    "Affective empathy": "Sharing or resonating with another’s feeling.",
+    "Perspective taking": "Considering another’s viewpoint.",
+    "Compassion": "Concern for another’s difficulty and wish to help."
+  },
+  "10": {
+    "Subjective wellbeing": "Evaluations and experiences of life quality.",
+    "Positive affect": "Pleasant emotional experience.",
+    "Meaning": "Sense that activities or life matter.",
+    "Comparison group": "A reference condition for evaluating change.",
+    "Expectancy effect": "Influence of anticipated benefit.",
+    "Follow-up": "Assessment after a defined delay.",
+    "Agency": "Meaningful choice in an action.",
+    "Proportionate claim": "Conclusion matching the strength of evidence.",
+    "Professional support": "Qualified care matched to relevant needs."
+  }
+}
